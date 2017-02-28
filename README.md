@@ -4,7 +4,7 @@
 
 ## Install
 
-PHP 5.6 or higher is required, and [Composer](https://getcomposer.org).
+PHP 5.5 or higher is required, and [Composer](https://getcomposer.org).
 
 <pre lang="sh">
 git clone https://github.com/Krinkle/intuition-web.git && cd integration-web
