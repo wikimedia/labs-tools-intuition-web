@@ -2,6 +2,8 @@
 
 # intuition-web
 
+Web interface for [Intuition](https://github.com/Krinkle/intuition).
+
 ## Install
 
 PHP 5.5 or higher is required, and [Composer](https://getcomposer.org).
