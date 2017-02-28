@@ -4,8 +4,8 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=5.5",
-		"krinkle/toollabs-base": "~0.8.0",
-		"krinkle/intuition": "~0.4.0"
+		"krinkle/toollabs-base": "^0.8.1",
+		"krinkle/intuition": "^0.4.0"
 	},
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "0.*",

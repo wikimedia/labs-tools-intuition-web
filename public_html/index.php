@@ -30,7 +30,6 @@ $Tool = BaseTool::newFromArray( array(
 	'displayTitle' => $I18N->msg( 'title' ),
 	'remoteBasePath' => $I18N->dashboardHome,
 	'localBasePath' => $I18N->localBaseDir,
-	'revisionId' => $I18N->version,
 	'styles' => array(
 		'main.css',
 	),
@@ -41,7 +40,7 @@ $Tool = BaseTool::newFromArray( array(
 		'CC-BY 3.0' => 'https://creativecommons.org/licenses/by/3.0/'
 	),
 ) );
-$Tool->setSourceInfoGithub( 'Krinkle', 'intuition', dirname( __DIR__ ) );
+$Tool->setSourceInfoGithub( 'Krinkle', 'intuition-web', dirname( __DIR__ ) );
 
 /**
  * Tool settings
