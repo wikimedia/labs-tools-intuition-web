@@ -1,0 +1,22 @@
+{
+	"name": "krinkle/intuition-web",
+	"description": "Web interface for Intuition.",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.6",
+		"krinkle/toollabs-base": "~0.8.0",
+		"krinkle/intuition": "~0.4.0"
+	},
+	"require-dev": {
+		"jakub-onderka/php-parallel-lint": "0.*",
+		"squizlabs/php_codesniffer": "2.1.*",
+		"mediawiki/mediawiki-codesniffer": "0.1.0"
+	},
+	"scripts": {
+		"test": [
+			"parallel-lint . --exclude libs --exclude vendor --exclude node_modules",
+			"phpcs . --extensions=php --standard=tests/codesniffer --ignore=vendor/*,node_modules/*,libs/*,language/*",
+			"npm install && npm test"
+		]
+	}
+}
