@@ -63,8 +63,8 @@
 		"title-msg": [ "templatetransclusioncheck", "title" ],
 		"url": "//tools.wmflabs.org/templatetransclusioncheck/"
 	},
-	"tsintuition": {
-		"title-msg": [ "tsintuition", "title" ],
+	"krinkle/intuition-web": {
+		"title-msg": [ "web", "title" ],
 		"url": "//tools.wmflabs.org/intuition/"
 	},
 	"tsreports": {

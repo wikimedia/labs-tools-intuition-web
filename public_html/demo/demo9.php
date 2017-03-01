@@ -10,7 +10,7 @@ $I18N = new Intuition( 'demo' );
 
 // 2) Get domain info (eg. url)
 var_dump(
-	$I18N->getDomainInfo( 'tsintuition' )
+	$I18N->getDomainInfo( 'general' )
 );
 
 

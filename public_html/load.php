@@ -13,10 +13,7 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-$I18N = new Intuition( array(
-	'domain' => 'tsintuition',
-	'mode' => 'dashboard',
-) );
+$I18N = new Intuition( 'web' );
 
 if ( file_exists( __DIR__ . '/../config.php' ) ) {
 	require_once __DIR__ . '/../config.php';
