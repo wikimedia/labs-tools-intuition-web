@@ -1,38 +1,38 @@
 {
 	"catdown": {
 		"title-msg": [ "catdown", "title" ],
-		"url": "//toolserver.org/~platonides/catdown/"
+		"url": "https://toolserver.org/~platonides/catdown/"
 	},
 	"commonshelper2": {
 		"title-msg": [ "commonshelper2", "title" ],
-		"url": "//toolserver.org/~commonshelper2/"
+		"url": "https://toolserver.org/~commonshelper2/"
 	},
 	"CVN Overlay": {
 		"url": "https://github.com/countervandalism/mw-gadget-cvnoverlay"
 	},
 	"getwikiapi": {
 		"title-msg": [ "getwikiapi", "title" ],
-		"url": "//tools.wmflabs.org/wikiinfo/"
+		"url": "https://tools.wmflabs.org/wikiinfo/"
 	},
 	"grep": {
 		"title-msg": [ "grep", "title" ],
-		"url": "//tools.wmflabs.org/grep/"
+		"url": "https://tools.wmflabs.org/grep/"
 	},
 	"jarry": {
 		"title-msg": [ "jarry", "title" ],
-		"url": "//tools.wmflabs.org/jarry-common/"
+		"url": "https://tools.wmflabs.org/jarry-common/"
 	},
 	"krinkle/toollabs-base": {
 		"url": "https://github.com/krinkle/toollabs-base"
 	},
 	"heritage": {
-		"url": "//tools.wmflabs.org/heritage/api/"
+		"url": "https://tools.wmflabs.org/heritage/api/"
 	},
 	"Snapshots": {
-		"url": "//tools.wmflabs.org/snapshots/"
+		"url": "https://tools.wmflabs.org/snapshots/"
 	},
 	"OrphanTalk": {
-		"url": "//tools.wmflabs.org/orphantalk/"
+		"url": "https://tools.wmflabs.org/orphantalk/"
 	},
 	"Pageviews Analysis": {
 		"url": "https://tools.wmflabs.org/pageviews/"
@@ -45,7 +45,7 @@
 	},
 	"recentanonymousactivity": {
 		"title-msg": [ "recentanonymousactivity", "title" ],
-		"url": "//toolserver.org/~krinkle/recentAnonymousActivity/"
+		"url": "https://toolserver.org/~krinkle/recentAnonymousActivity/"
 	},
 	"rtrc": {
 		"title-msg": [ "rtrc", "title" ],
@@ -53,44 +53,44 @@
 	},
 	"svgtranslate": {
 		"title-msg": [ "svgtranslate", "title" ],
-		"url": "//toolserver.org/~jarry/svgtranslate/"
+		"url": "https://tools.wmflabs.org/svgtranslate/"
 	},
 	"templatecount": {
 		"title-msg": [ "templatecount", "title" ],
-		"url": "//toolserver.org/~jarry/templatecount/"
+		"url": "https://toolserver.org/~jarry/templatecount/"
 	},
 	"templatetransclusioncheck": {
 		"title-msg": [ "templatetransclusioncheck", "title" ],
-		"url": "//tools.wmflabs.org/templatetransclusioncheck/"
+		"url": "https://tools.wmflabs.org/templatetransclusioncheck/"
 	},
 	"krinkle/intuition-web": {
 		"title-msg": [ "web", "title" ],
-		"url": "//tools.wmflabs.org/intuition/"
+		"url": "https://tools.wmflabs.org/intuition/"
 	},
 	"tsreports": {
-		"url": "//tools.wmflabs.org/tsreports/"
+		"url": "https://tools.wmflabs.org/tsreports/"
 	},
 	"voiceintro": {
 		"title-msg": [ "voiceintro", "voiceintro-title" ],
-		"url": "//tools.wmflabs.org/voiceintro/"
+		"url": "https://tools.wmflabs.org/voiceintro/"
 	},
 	"wlm": {
 		"title-msg": [ "wlm", "title" ],
-		"url": "//toolserver.org/~platonides/wlm/"
+		"url": "https://toolserver.org/~platonides/wlm/"
 	},
 	"wlmsurvey": {
 		"title-msg": [ "wlmsurvey", "title" ],
-		"url": "//toolserver.org/~platonides/wlmsurvey/"
+		"url": "https://toolserver.org/~platonides/wlmsurvey/"
 	},
 	"whatleaveshere": {
 		"title-msg": [ "whatleaveshere", "title" ],
 		"url": "https://github.com/Krinkle/mw-gadget-whatleaveshere"
 	},
 	"wikiviewstats": {
-		"url": "//tools.wmflabs.org/wikiviewstats/"
+		"url": "https://tools.wmflabs.org/wikiviewstats/"
 	},
 	"xtools": {
 		"title-msg": [ "xtools", "title_xtools" ],
-		"url": "//tools.wmflabs.org/xtools/"
+		"url": "https://tools.wmflabs.org/xtools/"
 	}
 }
