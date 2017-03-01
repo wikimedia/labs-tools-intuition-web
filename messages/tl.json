@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Pagsasandaigdigan para sa Ugnayang-Mukha ng Toolserver",
+	"current-settings": "Pangkasalukuyang mga katakdaan",
+	"current-language": "Pangkasalukuyang napiling wika",
+	"settings-legend": "Mga pagtatakda",
+	"choose-language": "Pumili ng isang wika",
+	"clear-cookies": "hawiin ang mga otap",
+	"renew-cookies": "baguhing muli ang mga otap",
+	"cookie-expiration": "Katapusan ng otap",
+	"clearcookies-success": "Matagumpay na nahawi ang mga otap.",
+	"renewcookies-success": "Muli nang nabago ang mga otap!  Nakahanda ka na para sa susunod na $1.",
+	"tab-overview": "Pagtalakay na naglalarawan",
+	"tab-settings": "Mga katakdaan",
+	"tab-about": "Patungkol",
+	"tab-demo": "Pagpapamalas",
+	"usage": "Ang mga kasangkapan ay isinalinwika ng Kutob ng Toolserver."
+}

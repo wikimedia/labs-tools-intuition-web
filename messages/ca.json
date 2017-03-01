@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internacionalització per les eines",
+	"current-settings": "Configuració actual",
+	"current-language": "Idioma seleccionat actualment",
+	"settings-legend": "Paràmetres",
+	"choose-language": "Trieu un idioma",
+	"clear-cookies": "neteja les galetes",
+	"renew-cookies": "renova les galetes",
+	"cookie-expiration": "Caducitat de les galetes",
+	"clearcookies-success": "S'han esborrat les galetes correctament.",
+	"renewcookies-success": "Galetes renovades! Estaran disponibles durant els propers $1.",
+	"tab-overview": "Vista general",
+	"tab-settings": "Paràmetres",
+	"tab-about": "Quant a",
+	"tab-demo": "Demo",
+	"usage": "Eines traduïdes per Intuition."
+}

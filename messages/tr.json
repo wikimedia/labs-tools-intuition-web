@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Toolserver'ın Kullanıcı Arayüzü için Uluslararasılaştırma",
+	"current-settings": "Güncel ayarlar",
+	"current-language": "Halihazırda seçilmiş dil",
+	"settings-legend": "Ayarlar",
+	"choose-language": "Bir dil seçin",
+	"clear-cookies": "çerezleri temizle",
+	"renew-cookies": "çerezleri yenile",
+	"cookie-expiration": "Çerez süresinin dolumu",
+	"clearcookies-success": "Çerezler başarıyla temizlendi.",
+	"renewcookies-success": "Çerezler temizlendi! Sonraki $1 için hazırsınız.",
+	"tab-overview": "Genel görünüm",
+	"tab-settings": "Ayarlar",
+	"tab-about": "Hakkında",
+	"tab-demo": "Demo",
+	"usage": "Toolserver Intuition tarafından çevrilen araçlar."
+}

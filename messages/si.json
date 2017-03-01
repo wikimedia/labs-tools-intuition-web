@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Toolserver පරිශීලක අතුරුමුහණත සඳහා ජාත්‍යන්තරකරණය",
+	"current-settings": "වත්මන් සැකසුම්",
+	"current-language": "වත්මන් තෝරාගත් භෂාව",
+	"settings-legend": "පරිස්ථිතීන්",
+	"choose-language": "භාෂාවක් තෝරාගන්න",
+	"clear-cookies": "කුකීස් හිස් කරන්න",
+	"renew-cookies": "කුකීස් නව්‍යකරණය කරන්න",
+	"cookie-expiration": "කුකී ඉකුත් වීම",
+	"clearcookies-success": "කුකීස් සාර්ථකව හිස් කරන ලදී.",
+	"renewcookies-success": "කුකීස් අලුත් කරන ලදී! ඔබ සියල්ලම මීළඟ $1 සඳහා සකසන ලදී.",
+	"tab-overview": "දළ විශ්ලේෂණය",
+	"tab-settings": "සැකසුම්",
+	"tab-about": "පිළිබඳ",
+	"tab-demo": "නිදර්ශනය",
+	"usage": "Toolserver ප්‍රතිභානය විසින් මෙවලම් පරිවර්තනය කර ඇත."
+}

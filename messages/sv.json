@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internationalisering av verktyg",
+	"current-settings": "Aktuella inställningar",
+	"current-language": "Valt språk",
+	"settings-legend": "Inställningar",
+	"choose-language": "Välj ett språk",
+	"clear-cookies": "rensa kakor",
+	"renew-cookies": "förnya kakor",
+	"cookie-expiration": "Kakors förfallodatum",
+	"clearcookies-success": "Lyckades rensa kakor.",
+	"renewcookies-success": "Kakor förnyade! Du är klar för de nästa $1.",
+	"tab-overview": "Översikt",
+	"tab-settings": "Inställningar",
+	"tab-about": "Om",
+	"tab-demo": "Demo",
+	"usage": "Verktyg översatt av Intuition."
+}

@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internacionalizacija alata",
+	"current-settings": "Trenutne postavke",
+	"current-language": "Odabrani jezik",
+	"settings-legend": "Postavke",
+	"choose-language": "Odaberite jezik",
+	"clear-cookies": "obrišite kolačiće",
+	"renew-cookies": "obnovite kolačiće",
+	"cookie-expiration": "Istjecanje kolačića",
+	"clearcookies-success": "Uspješno očišćeni kolačići.",
+	"renewcookies-success": "Kolačići su obnovljeni. Svi su postavljeni za sljedećih $1.",
+	"tab-overview": "Pregled",
+	"tab-settings": "Postavke",
+	"tab-about": "O",
+	"tab-demo": "Demo",
+	"usage": "Alate preveo Intuition."
+}

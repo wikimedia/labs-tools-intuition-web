@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internacionalización das ferramentas",
+	"current-settings": "Configuración actual",
+	"current-language": "Lingua escollida",
+	"settings-legend": "Configuracións",
+	"choose-language": "Escolla unha lingua",
+	"clear-cookies": "borrar as cookies",
+	"renew-cookies": "renovar as cookies",
+	"cookie-expiration": "Caducidade das cookies",
+	"clearcookies-success": "As cookies borráronse correctamente.",
+	"renewcookies-success": "Cookies renovadas! Está listo para os vindeiros $1.",
+	"tab-overview": "Vista xeral",
+	"tab-settings": "Configuracións",
+	"tab-about": "Acerca de",
+	"tab-demo": "Demostración",
+	"usage": "Ferramentas traducidas por Intuition."
+}

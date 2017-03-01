@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nike"
+		]
+	},
+	"fullname": "Työkalujen kansainvälistäminen",
+	"current-settings": "Nykyiset asetukset",
+	"current-language": "Tällä hetkellä valittu kieli",
+	"settings-legend": "Asetukset",
+	"choose-language": "Valitse kieli",
+	"clear-cookies": "poista evästeet",
+	"renew-cookies": "uudista evästeet",
+	"cookie-expiration": "Evästeiden vanheneminen",
+	"clearcookies-success": "Evästeet poistettu.",
+	"renewcookies-success": "Evästeet uusittu. Kaikki on kunnossa seuraavat $1.",
+	"tab-overview": "Yleiskatsaus",
+	"tab-settings": "Asetukset",
+	"tab-about": "Tietoja",
+	"tab-demo": "Demo",
+	"usage": "Toolserver Intuitionia käyttävät työkalut."
+}

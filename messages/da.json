@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internationalisering af værktøjer",
+	"current-settings": "Aktuelle indstillinger",
+	"current-language": "Valgte sprog",
+	"settings-legend": "Indstillinger",
+	"choose-language": "Vælg et sprog",
+	"clear-cookies": "fjern cookies",
+	"renew-cookies": "forny cookies",
+	"cookie-expiration": "Udløbsdato for cookie",
+	"clearcookies-success": "Det lykkedes at slette cookies",
+	"renewcookies-success": "Cookies fornyet! Du er klar til de næste $1.",
+	"tab-overview": "Oversigt",
+	"tab-settings": "Indstillinger",
+	"tab-about": "Om",
+	"tab-demo": "Demo",
+	"usage": "Værktøjer oversat af Intuition."
+}

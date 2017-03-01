@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Інтэрналіцыяналізацыя для інструмэнтаў",
+	"current-settings": "Цяперашнія налады",
+	"current-language": "Выбраная мова",
+	"settings-legend": "Налады",
+	"choose-language": "Выберыце мову",
+	"clear-cookies": "ачысьціць закладкі (cookies)",
+	"renew-cookies": "аднавіць закладкі (cookies)",
+	"cookie-expiration": "Тэрмін дзеяньня закладак (cookies)",
+	"clearcookies-success": "Закладкі (cookies) ачышчаныя пасьпяхова.",
+	"renewcookies-success": "Закладкі (cookies) адноўленыя! Яны будуць дзейнічаць наступныя $1.",
+	"tab-overview": "Агляд",
+	"tab-settings": "Налады",
+	"tab-about": "Пра",
+	"tab-demo": "Дэманстрацыя",
+	"usage": "Інструмэнты, перакладзеныя з дапамогай Intuition."
+}

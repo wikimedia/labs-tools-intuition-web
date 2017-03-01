@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internacjonalizacja dla narzędzi",
+	"current-settings": "Bieżące ustawienia",
+	"current-language": "Wybrany język",
+	"settings-legend": "Ustawienia",
+	"choose-language": "Wybierz język",
+	"clear-cookies": "usuń ciasteczka",
+	"renew-cookies": "odnów ciasteczka",
+	"cookie-expiration": "Wygaśnięcie ciasteczek",
+	"clearcookies-success": "Pomyślnie usunięto ciasteczka.",
+	"renewcookies-success": "Ciasteczka odnowione! Ponownie wygasną za $1.",
+	"tab-overview": "Przegląd",
+	"tab-settings": "Ustawienia",
+	"tab-about": "O narzędziu",
+	"tab-demo": "Podgląd",
+	"usage": "Narzędzia przetłumaczone przez Intuition."
+}

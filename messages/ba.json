@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Турсервер ҡулланыу интерфейсын интернационалләштереү",
+	"current-settings": "Ағымдағы көйләүҙәр",
+	"current-language": "Ағымдағы тел көйләүҙәре",
+	"settings-legend": "Көйләүҙәр",
+	"choose-language": "Тел һайлау",
+	"clear-cookies": " Cookies юйырға",
+	"renew-cookies": " Cookies яңыртырға",
+	"cookie-expiration": " Cookies файлының эшләү ваҡыты",
+	"clearcookies-success": " Cookies файлдарҙы юйыу уңышлы үтте.",
+	"renewcookies-success": " Cookies яңыртылды.  $1 ваҡыт бирелде.",
+	"tab-overview": "Дөйөм күренеш",
+	"tab-settings": "Көйләүҙәр",
+	"tab-about": "Тасурилама",
+	"tab-demo": "Демо",
+	"usage": "Toolserver Intuition ярҙамында тәржемә ителгән ҡорамалдар."
+}

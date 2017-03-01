@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Құралдар үшін халықаралықтандыру",
+	"current-settings": "Қазіргі баптаулар",
+	"current-language": "Таңдалған тіл",
+	"settings-legend": "Баптаулар",
+	"choose-language": "Тілді таңдау",
+	"clear-cookies": "cookies-ті жою",
+	"renew-cookies": "cookies-ті жаңалау",
+	"cookie-expiration": "Cookie әрекет ету мерзімі",
+	"clearcookies-success": "Cookie файлдар тазартылды.",
+	"renewcookies-success": "Cookie файлдар жаңартылды! $1 деп мерземі тоқтатылды.",
+	"tab-overview": "Шолу",
+	"tab-settings": "Баптаулар",
+	"tab-about": "Қолданба туралы",
+	"tab-demo": "Демо",
+	"usage": "Баптаулар Intuition арқылы аударылды"
+}

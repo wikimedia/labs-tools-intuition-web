@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Altjóðagerð av tólum",
+	"current-settings": "Galdandi innstillingar",
+	"current-language": "Valt mál í løtuni",
+	"settings-legend": "Innstillingar",
+	"choose-language": "Vel eitt mál",
+	"clear-cookies": "rudda kakur (cookies)",
+	"renew-cookies": "endurnýggja cookies",
+	"cookie-expiration": "Cookie gongur út",
+	"clearcookies-success": "Cookies eru nú reinsaðar.",
+	"renewcookies-success": "Cookies endurnýggjaðar! Tú ert nú til reiðar til næstu $1.",
+	"tab-overview": "Yvirlit",
+	"tab-settings": "Innstillingar",
+	"tab-about": "Um",
+	"tab-demo": "Demo",
+	"usage": "Tólini eru týdd av Intuition."
+}

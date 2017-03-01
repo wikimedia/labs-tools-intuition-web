@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Интернационализация инструментов",
+	"current-settings": "Текущие настройки",
+	"current-language": "Выбранный язык",
+	"settings-legend": "Настройки",
+	"choose-language": "Выберите язык",
+	"clear-cookies": "Удалить Cookies",
+	"renew-cookies": "Обновить Cookies",
+	"cookie-expiration": "Срок действия файла cookie",
+	"clearcookies-success": "Успешно очищены файлы Cookies.",
+	"renewcookies-success": "Cookie обновлены! Срок установлен на $1",
+	"tab-overview": "Обзор",
+	"tab-settings": "Настройки",
+	"tab-about": "Описание",
+	"tab-demo": "Демо",
+	"usage": "Инструменты, переведенные с помощью Intuition."
+}

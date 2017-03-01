@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internacionalizace pro nástroje",
+	"current-settings": "Aktuální nastavení",
+	"current-language": "Aktuálně vybraný jazyk",
+	"settings-legend": "Nastavení",
+	"choose-language": "Vyberte jazyk",
+	"clear-cookies": "smazat cookies",
+	"renew-cookies": "obnovit cookies",
+	"cookie-expiration": "Konec platnosti cookie",
+	"clearcookies-success": "Cookies úspěšně smazány.",
+	"renewcookies-success": "Cookies obnoveny! Vše nastaveno na dalších $1.",
+	"tab-overview": "Přehled",
+	"tab-settings": "Nastavení",
+	"tab-about": "O nástroji",
+	"tab-demo": "Ukázka",
+	"usage": "Nástroje přeložené pomocí Intuition."
+}

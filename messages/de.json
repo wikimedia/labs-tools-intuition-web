@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Übersetzungen für die Hilfsprogramme",
+	"current-settings": "Aktuelle Einstellungen",
+	"current-language": "Ausgewählte Sprache",
+	"settings-legend": "Einstellungen",
+	"choose-language": "Eine Sprache auswählen",
+	"clear-cookies": "Cookies entfernen",
+	"renew-cookies": "Cookies erneuern",
+	"cookie-expiration": "Cookieablauf",
+	"clearcookies-success": "Die Cookies wurden erfolgreich entfernt.",
+	"renewcookies-success": "Die Cookies wurden erfolgreich erneuert. Für die kommenden $1 ist alles bereit.",
+	"tab-overview": "Übersicht",
+	"tab-settings": "Einstellungen",
+	"tab-about": "Über",
+	"tab-demo": "Demo",
+	"usage": "Die Hilfsprogramme wurden von Intuition übersetzt."
+}

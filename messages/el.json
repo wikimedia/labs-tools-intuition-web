@@ -1,0 +1,17 @@
+{
+	"@metadata": [],
+	"current-settings": "Τρέχουσες ρυθμίσεις",
+	"current-language": "Τρέχουσα επιλεγμένη γλώσσα",
+	"settings-legend": "Ρυθμίσεις",
+	"choose-language": "Επιλογή γλώσσας",
+	"clear-cookies": "εκκαθάριση cookies",
+	"renew-cookies": "ανανέωση των cookies",
+	"cookie-expiration": "Λήξη cookie",
+	"clearcookies-success": "Επιτυχής εκκαθάριση των cookie.",
+	"renewcookies-success": "Τα cookies ανανεώθηκαν Είστε έτοιμοι για τις επόμενες $1 .",
+	"tab-overview": "Επισκόπηση",
+	"tab-settings": "Ρυθμίσεις",
+	"tab-about": "Σχετικά",
+	"tab-demo": "Demo",
+	"usage": "Εργαλεία μεταφρασμένα με χρήση του Toolserver Intuition."
+}

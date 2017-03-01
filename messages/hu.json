@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Többnyelvűsítés eszközöknek",
+	"current-settings": "Jelenlegi beállítások",
+	"current-language": "Kiválasztott nyelv",
+	"settings-legend": "Beállítások",
+	"choose-language": "Válassz nyelvet",
+	"clear-cookies": "sütik törlése",
+	"renew-cookies": "sütik megújítása",
+	"cookie-expiration": "Süti lejárata",
+	"clearcookies-success": "Sütik sikeresen törölve.",
+	"renewcookies-success": "Sütik megújítva! Rendben vagy a következő időszakra: $1.",
+	"tab-overview": "Áttekintés",
+	"tab-settings": "Beállítások",
+	"tab-about": "Rólunk",
+	"tab-demo": "Demó",
+	"usage": "Az eszköz fordítása a Toolserver Intuitionnel készült."
+}

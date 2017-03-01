@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "soo qaadasho Toolserver ee adeegsadaha",
+	"current-settings": "Dooqyada hadda",
+	"current-language": "Luqada ee la doortay hadda",
+	"settings-legend": "dooqyada",
+	"choose-language": "Dooro luqad",
+	"clear-cookies": "Nadiifi cookies",
+	"renew-cookies": "Cusbooneeysii cookies",
+	"cookie-expiration": "Cookie waqtiga uu dhacayo",
+	"clearcookies-success": "waa lagu guuleeystay nadiifinta cookies.",
+	"renewcookies-success": "Cookies waa la cusbooneeysiiyey! Waxaad diyaar utahay waxa xiga $1.",
+	"tab-overview": "Aragti guud",
+	"tab-settings": "dooqyada",
+	"tab-about": "Ku saabsan",
+	"tab-demo": "Tijaabo",
+	"usage": "Waxaa lagu turjumay Toolserver."
+}

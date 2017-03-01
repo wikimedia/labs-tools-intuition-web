@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internacionalizacija orodij",
+	"current-settings": "Trenutne nastavitve",
+	"current-language": "Izbran jezik",
+	"settings-legend": "Nastavitve",
+	"choose-language": "Izberite jezik",
+	"clear-cookies": "počisti piškotke",
+	"renew-cookies": "obnovi piškotke",
+	"cookie-expiration": "Potek piškotkov",
+	"clearcookies-success": "Piškotki so uspešno počiščeni.",
+	"renewcookies-success": "Piškotki so obnovljeni! Pripravljeni ste za naslednjih $1.",
+	"tab-overview": "Pregled",
+	"tab-settings": "Nastavitve",
+	"tab-about": "O orodju",
+	"tab-demo": "Predstavitev",
+	"usage": "Orodja, ki so prevedena z Intuicijo."
+}

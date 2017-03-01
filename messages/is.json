@@ -1,0 +1,17 @@
+{
+	"@metadata": [],
+	"current-settings": "Núverandi stillingar",
+	"current-language": "Valið tungumál",
+	"settings-legend": "Stillingar",
+	"choose-language": "Veldu tungumál",
+	"clear-cookies": "eyða vefkökum",
+	"renew-cookies": "endurnýja vefkökur",
+	"cookie-expiration": "endingartími vefköku",
+	"clearcookies-success": "Vefkökunum hefur verið eytt",
+	"renewcookies-success": "Vefkökurnar hafa verið endurnýjaðar! Þú ert í góðum málum næstu $1.",
+	"tab-overview": "Yfirlit",
+	"tab-settings": "Stillingar",
+	"tab-about": "Um",
+	"tab-demo": "Prufuútgáfa",
+	"usage": "Tól þýdd með Intuition."
+}

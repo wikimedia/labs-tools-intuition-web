@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Интернационализација алатки",
+	"current-settings": "Текуће поставке",
+	"current-language": "Изабрани језик",
+	"settings-legend": "Поставке",
+	"choose-language": "Изаберите језик",
+	"clear-cookies": "очисти колачиће",
+	"renew-cookies": "обнови колачиће",
+	"cookie-expiration": "Истек колачића",
+	"clearcookies-success": "Колачићи су очишћени.",
+	"renewcookies-success": "Колачићи су обновљени. Они ће истећи за $1.",
+	"tab-overview": "Преглед",
+	"tab-settings": "Поставке",
+	"tab-about": "О алатки",
+	"tab-demo": "Демо",
+	"usage": "Алатке које се преводе помоћу Intuition-а."
+}

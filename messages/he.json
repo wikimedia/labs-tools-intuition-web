@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "בִנאום עבור הכלים",
+	"current-settings": "הגדרות נוכחיות",
+	"current-language": "השפה שנבחרה",
+	"settings-legend": "הגדרות",
+	"choose-language": "בחירת שפה",
+	"clear-cookies": "ניקוי עוגיות",
+	"renew-cookies": "חידוש עוגיות",
+	"cookie-expiration": "תפוגת עוגיות",
+	"clearcookies-success": "העוגיות נוקו בהצלחה.",
+	"renewcookies-success": "העוגיות חודשו! הכול יהיה בסדר אצלך למשל $1.",
+	"tab-overview": "סקירה",
+	"tab-settings": "הגדרות",
+	"tab-about": "אודות",
+	"tab-demo": "הדגמה",
+	"usage": "כלים שמתורגמים באמצעות Intuition."
+}

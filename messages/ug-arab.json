@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Toolserver نىڭ ئىشلەتكۈچى ئارا يۈزىنى خەلقئارالاشتۇرۇش",
+	"current-settings": "نۆۋەتتىكى تەڭشەكلەر",
+	"current-language": "نۆۋەتتە تاللانغان تىل",
+	"settings-legend": "تەڭشەكلەر",
+	"choose-language": "بىر تىل تاللاڭ",
+	"clear-cookies": "Cookie تازىلا",
+	"renew-cookies": "cookie قايتا يېڭىلا",
+	"cookie-expiration": "Cookie مۆھلىتى",
+	"clearcookies-success": "cookie مۇۋەپپەقىيەتلىك تازىلاندى.",
+	"renewcookies-success": "Cookie قايتا يېڭىلاندى! ھەممە تەڭشەكلىرىڭىز ساقلىنىدۇ $1.",
+	"tab-overview": "قىسقىچە بايان",
+	"tab-settings": "تەڭشەكلەر",
+	"tab-about": "ھەققىدە",
+	"tab-demo": "ئۈلگە كۆرسىتىش",
+	"usage": "Toolserver Intuition تەرجىمە قىلغان قورال."
+}

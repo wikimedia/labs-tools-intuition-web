@@ -1,0 +1,15 @@
+{
+	"@metadata": [],
+	"current-settings": "მიმდინარე პარამეტრები",
+	"current-language": "არჩეული ენა",
+	"settings-legend": "პარამეტრები",
+	"choose-language": "აირჩიეთ ენა",
+	"clear-cookies": "cookies-ის გასუფთავება",
+	"renew-cookies": "cookies-ის განახლება",
+	"cookie-expiration": "Cookie-ს მოქმედების ვადა",
+	"clearcookies-success": "Cookies-ები წარმატებით წაიშალა.",
+	"tab-overview": "გადახედვა",
+	"tab-settings": "პარამეტრები",
+	"tab-about": "აღწერა",
+	"tab-demo": "დემო"
+}

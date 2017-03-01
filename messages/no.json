@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internasjonalisering for Toolservers brukergrensesnitt",
+	"current-settings": "Gjeldende innstillinger",
+	"current-language": "Valgt språk",
+	"settings-legend": "Innstillinger",
+	"choose-language": "Velg et språk",
+	"clear-cookies": "slett informasjonskapsler",
+	"renew-cookies": "forny informasjonskapsler",
+	"cookie-expiration": "Utløpsdato for informasjonskapsler",
+	"clearcookies-success": "Informasjonskapslene ble tømt.",
+	"renewcookies-success": "Informasjonskapslene ble oppdatert! Du er klarert for de neste $1.",
+	"tab-overview": "Oversikt",
+	"tab-settings": "Innstillinger",
+	"tab-about": "Om",
+	"tab-demo": "Demo",
+	"usage": "Verktøy oversatt med Toolserver Intuition."
+}

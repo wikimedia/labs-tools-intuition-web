@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internationalisation pro instrumentos",
+	"current-settings": "Configuration actual",
+	"current-language": "Lingua actualmente seligite",
+	"settings-legend": "Configuration",
+	"choose-language": "Selige un lingua",
+	"clear-cookies": "rader cookies",
+	"renew-cookies": "renovar cookies",
+	"cookie-expiration": "Expiration del cookie",
+	"clearcookies-success": "Cookies radite con successo.",
+	"renewcookies-success": "Cookies renovate! Essera valide pro le proxime $1.",
+	"tab-overview": "Vista general",
+	"tab-settings": "Configuration",
+	"tab-about": "A proposito",
+	"tab-demo": "Demo",
+	"usage": "Instrumentos traducite per Intuition."
+}

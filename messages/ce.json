@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Интеркъаьмнийн гӀирс бан",
+	"current-settings": "Карара гӀирс нисбарш",
+	"current-language": "Хаьржина мотт",
+	"settings-legend": "Параметраш",
+	"choose-language": "Харжа мотт",
+	"clear-cookies": "ДӀаяккха Cookies",
+	"renew-cookies": "Карлаяккха Cookies",
+	"cookie-expiration": "Файла cookie леларан хан",
+	"clearcookies-success": "Cookies файлаш кхиамца дӀацӀанйина.",
+	"renewcookies-success": "Cookie карлаяьхина! ХӀоттина хан $1",
+	"tab-overview": "Гучé",
+	"tab-settings": "Параметраш",
+	"tab-about": "Цуьнах лаьцна",
+	"tab-demo": "Демо",
+	"usage": "Intuition гӀоьнца гочбина гӀирсаш."
+}

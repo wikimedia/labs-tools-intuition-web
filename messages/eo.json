@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internaciigo por iloj",
+	"current-settings": "Nuntempaj agordoj",
+	"current-language": "Elektita lingvo",
+	"settings-legend": "Agordoj",
+	"choose-language": "Elektu lingvon",
+	"clear-cookies": "nuligi kuketojn",
+	"renew-cookies": "novigi kuketojn",
+	"cookie-expiration": "Eksvalidiĝtempo de kuketoj",
+	"clearcookies-success": "Kuketoj estis nuligitaj.",
+	"renewcookies-success": "Kuketoj renovigita! Ili ĉiuj estas agorditaj por sekva(j) $1.",
+	"tab-overview": "Superrigardo",
+	"tab-settings": "Agordoj",
+	"tab-about": "Pri",
+	"tab-demo": "Demonstraĵo",
+	"usage": "Iloj tradukitaj de Intuition."
+}

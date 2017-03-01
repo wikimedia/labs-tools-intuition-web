@@ -1,0 +1,18 @@
+{
+	"@metadata": [],
+	"fullname": "Internationalisation des outils",
+	"current-settings": "Paramètres actuels",
+	"current-language": "Langue sélectionnée",
+	"settings-legend": "Configuration",
+	"choose-language": "Choisissez une langue",
+	"clear-cookies": "effacer les cookies",
+	"renew-cookies": "renouveler les cookies",
+	"cookie-expiration": "Expiration du cookie",
+	"clearcookies-success": "Les cookies ont bien été effacés",
+	"renewcookies-success": "Cookies renouvelés ! Vous êtes prêt pour une durée de $1.",
+	"tab-overview": "Vue d’ensemble",
+	"tab-settings": "Configuration",
+	"tab-about": "À propos",
+	"tab-demo": "Démo",
+	"usage": "Outils traduits par Intuition."
+}
