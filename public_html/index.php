@@ -26,7 +26,10 @@ if ( file_exists( __DIR__ . '/../config.php' ) ) {
 // Initialize BaseTool
 $Tool = BaseTool::newFromArray( array(
 	'displayTitle' => $I18N->msg( 'title' ),
-	'remoteBasePath' => $I18N->dashboardHome,
+	// FIXME:
+	// BaseTool remoteBasePath must end in a slash
+	// kgConf remoteBase must end without a slash
+	'remoteBasePath' => rtrim( $I18N->dashboardHome, '/' ) . '/',
 	'localBasePath' => $I18N->localBaseDir,
 	'styles' => array(
 		'main.css',
