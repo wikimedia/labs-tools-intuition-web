@@ -1,8 +1,12 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
 	"fullname": "Internacionalització per les eines",
 	"current-settings": "Configuració actual",
-	"current-language": "Idioma seleccionat actualment",
+	"current-language": "Idioma seleccionat",
 	"settings-legend": "Paràmetres",
 	"choose-language": "Trieu un idioma",
 	"clear-cookies": "neteja les galetes",

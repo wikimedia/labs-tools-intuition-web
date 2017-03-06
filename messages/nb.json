@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"title": "Intuition",
 	"fullname": "Internasjonalisering for verktøy",
 	"current-settings": "Gjeldende innstillinger",
 	"current-language": "Valgt språk",

@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"title": "Intuition",
 	"fullname": "Internationalisation des outils",
 	"current-settings": "Paramètres actuels",
 	"current-language": "Langue sélectionnée",

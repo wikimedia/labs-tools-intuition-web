@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"title": "Интуиција",
 	"fullname": "Преведување на алатки",
 	"current-settings": "Тековни поставки",
 	"current-language": "Избран јазик",

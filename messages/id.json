@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Hidayatsrf"
+		]
+	},
+	"title": "Intuition",
 	"fullname": "Internasionalisasi peralatan",
 	"current-settings": "Setelan sekarang",
 	"current-language": "Bahasa pilihan",
