@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"title": "Intuition",
 	"fullname": "Internazionalizzazione per strumenti",
 	"current-settings": "Impostazioni attuali",
 	"current-language": "Lingua selezionata",

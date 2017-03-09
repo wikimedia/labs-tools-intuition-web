@@ -5,7 +5,7 @@
 			"Amire80"
 		]
 	},
-	"title": "{{Ignore}}\nIntuition (INTUI-tion) stands for \"Internationalization for Toolserver's User Interface\".",
+	"title": "{{Optional}}\nIntuition (INTUI-tion) stands for \"Internationalization for Toolserver's User Interface\".",
 	"fullname": "The full name of the Toolserver Intution. Intution (INTUI-tion) stands for \"'' '''In'''ternationalization for '''T'''oolserver's '''U'''ser '''I'''nterface''\".",
 	"current-settings": "Form legend in the language settings dashboard around the box that displays the current settings and their properties (such as expiry time).",
 	"current-language": "Label in front of the currently selected language name in the \"Current settings\"-box",
