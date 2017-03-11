@@ -31,6 +31,7 @@ $Tool = BaseTool::newFromArray( array(
 	// kgConf remoteBase must end without a slash
 	'remoteBasePath' => rtrim( $I18N->dashboardHome, '/' ) . '/',
 	'localBasePath' => $I18N->localBaseDir,
+	'I18N' => $I18N,
 	'styles' => array(
 		'main.css',
 	),
