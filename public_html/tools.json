@@ -18,6 +18,9 @@
 		"title-msg": [ "grep", "title" ],
 		"url": "https://tools.wmflabs.org/grep/"
 	},
+	"Global user contributions": {
+		"url": "https://tools.wmflabs.org/guc/"
+	},
 	"jarry": {
 		"title-msg": [ "jarry", "title" ],
 		"url": "https://tools.wmflabs.org/jarry-common/"
