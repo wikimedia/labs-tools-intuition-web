@@ -46,10 +46,6 @@
 	"ra·un": {
 		"url": "https://tools.wmflabs.org/raun/"
 	},
-	"recentanonymousactivity": {
-		"title-msg": [ "recentanonymousactivity", "title" ],
-		"url": "https://toolserver.org/~krinkle/recentAnonymousActivity/"
-	},
 	"rtrc": {
 		"title-msg": [ "rtrc", "title" ],
 		"url": "https://github.com/Krinkle/mw-gadget-rtrc"
