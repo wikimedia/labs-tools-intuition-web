@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Urhixidur"
 		]
 	},
 	"title": "Intuition",
@@ -10,11 +11,11 @@
 	"current-language": "Langue sélectionnée",
 	"settings-legend": "Configuration",
 	"choose-language": "Choisissez une langue",
-	"clear-cookies": "effacer les cookies",
-	"renew-cookies": "renouveler les cookies",
-	"cookie-expiration": "Expiration du cookie",
-	"clearcookies-success": "Les cookies ont bien été effacés",
-	"renewcookies-success": "Cookies renouvelés ! Vous êtes prêt pour une durée de $1.",
+	"clear-cookies": "supprimer les témoins (cookies)",
+	"renew-cookies": "renouveler les témoins (cookies)",
+	"cookie-expiration": "Expiration du témoin (cookie)",
+	"clearcookies-success": "Les témoins (cookies) ont bien été supprimés.",
+	"renewcookies-success": "Témoins (cookies) renouvelés ! Vous êtes prêt pour une durée de $1.",
 	"tab-overview": "Vue d’ensemble",
 	"tab-settings": "Configuration",
 	"tab-about": "À propos",

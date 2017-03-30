@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Minh Nguyen"
+		]
+	},
 	"fullname": "Quốc tế hóa các công cụ",
 	"current-settings": "Các tùy chọn hiện hành",
 	"current-language": "Ngôn ngữ được chọn",
@@ -8,7 +12,7 @@
 	"clear-cookies": "xóa cookie",
 	"renew-cookies": "phục hồi cookie",
 	"cookie-expiration": "Thời hạn cookie",
-	"clearcookies-success": "Đã xóa cookie thành công",
+	"clearcookies-success": "Đã xóa cookie thành công.",
 	"renewcookies-success": "Đã phục hồi cookie cho $1 sau.",
 	"tab-overview": "Tổng quan",
 	"tab-settings": "Tùy chọn",
