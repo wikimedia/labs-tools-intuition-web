@@ -23,7 +23,7 @@ function kfJsonEncode( $arr ) {
 			$item = mb_encode_numericentity( $item, array( 0x80, 0xffff, 0, 0xffff ), 'UTF-8' );
 		}
 	} );
-	return mb_decode_numericentity( json_encode( $arr), array( 0x80, 0xffff, 0, 0xffff ), 'UTF-8' );
+	return mb_decode_numericentity( json_encode( $arr ), array( 0x80, 0xffff, 0, 0xffff ), 'UTF-8' );
 }
 
 // Header

@@ -77,6 +77,6 @@ if ( $mtime > 0 ) {
 echo str_replace(
 	'apiPath = \'api.php\',',
 	'apiPath = ' . json_encode( "{$I18N->dashboardHome}api.php" ) . ',',
-	file_get_contents($jsEnvFile)
+	file_get_contents( $jsEnvFile )
 );
 exit;

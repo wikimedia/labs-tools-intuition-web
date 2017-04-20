@@ -252,8 +252,8 @@ foreach ( $I18N->getAvailableLangs() as $langCode => $langName ) {
 }
 $dropdown .= '</select>';
 
-$toolSettings['tabs']['#tab-settingsform'] = $I18N->msg('tab-settings');
-$tabContent .= Html::openElement('div', array(
+$toolSettings['tabs']['#tab-settingsform'] = $I18N->msg( 'tab-settings' );
+$tabContent .= Html::openElement( 'div', array(
 		'class' => array(
 			'tab-pane',
 			'active' => $settingsIsFirst,
@@ -300,7 +300,7 @@ $about .= '<a href="https://translatewiki.net/wiki/Translating:Intuition">'
 		'height' => 400,
 		'alt' => '',
 		'class' => 'pull-right'
-		))
+		) )
 	.	'</a>';
 $about .= ''
 	. '<div class="lead">' . $I18N->msg( 'usage' ) . '</div><ul>';
@@ -321,12 +321,12 @@ foreach ( $tools as $domain => $info ) {
 $about .= '</ul><a href="https://github.com/Krinkle/intuition/wiki/Documentation">'
 	. 'Technical documentation</a></div>';
 
-$toolSettings['tabs']['#tab-about'] = $I18N->msg('tab-about');
+$toolSettings['tabs']['#tab-about'] = $I18N->msg( 'tab-about' );
 $tabContent .= $about;
 
 $tabContent .= '</div><!-- /.tab-content -->';
 
-$toolSettings['tabs']['demo/demo1.php'] = $I18N->msg('tab-demo');
+$toolSettings['tabs']['demo/demo1.php'] = $I18N->msg( 'tab-demo' );
 
 $tabBar = '<ul class="nav nav-tabs intuition-nav-tabs">';
 reset( $toolSettings['tabs'] );
