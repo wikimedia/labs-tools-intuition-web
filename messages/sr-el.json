@@ -1,6 +1,10 @@
 {
-	"@metadata": [],
-	"fullname": "Prevod korisničkog sučelja Tulservera",
+	"@metadata": {
+		"authors": [
+			"Obsuser"
+		]
+	},
+	"fullname": "Internacionalizacija alatki",
 	"current-settings": "Tekuće postavke",
 	"current-language": "Izabrani jezik",
 	"settings-legend": "Postavke",
