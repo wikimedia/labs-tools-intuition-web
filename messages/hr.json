@@ -1,7 +1,11 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Bugoslav"
+		]
+	},
 	"fullname": "Internacionalizacija alata",
-	"current-settings": "Trenutne postavke",
+	"current-settings": "Trenutačne postavke",
 	"current-language": "Odabrani jezik",
 	"settings-legend": "Postavke",
 	"choose-language": "Odaberite jezik",
