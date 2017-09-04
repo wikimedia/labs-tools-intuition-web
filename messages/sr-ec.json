@@ -1,9 +1,13 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Prevodim"
+		]
+	},
 	"fullname": "Интернационализација алатки",
-	"current-settings": "Текуће поставке",
+	"current-settings": "Тренутна подешавања",
 	"current-language": "Изабрани језик",
-	"settings-legend": "Поставке",
+	"settings-legend": "Подешавања",
 	"choose-language": "Изаберите језик",
 	"clear-cookies": "очисти колачиће",
 	"renew-cookies": "обнови колачиће",
@@ -11,7 +15,7 @@
 	"clearcookies-success": "Колачићи су очишћени.",
 	"renewcookies-success": "Колачићи су обновљени. Они ће истећи за $1.",
 	"tab-overview": "Преглед",
-	"tab-settings": "Поставке",
+	"tab-settings": "Подешавања",
 	"tab-about": "О алатки",
 	"tab-demo": "Демо",
 	"usage": "Алатке које се преводе помоћу Intuition-а."
