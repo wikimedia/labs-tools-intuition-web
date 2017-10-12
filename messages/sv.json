@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"title": "Intuition",
 	"fullname": "Internationalisering av verktyg",
 	"current-settings": "Aktuella inställningar",
 	"current-language": "Valt språk",
