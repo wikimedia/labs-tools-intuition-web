@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Gomoko",
-			"Urhixidur"
+			"Urhixidur",
+			"Envlh"
 		]
 	},
 	"title": "Intuition",
@@ -13,7 +14,7 @@
 	"choose-language": "Choisissez une langue",
 	"clear-cookies": "supprimer les témoins (cookies)",
 	"renew-cookies": "renouveler les témoins (cookies)",
-	"cookie-expiration": "Expiration du témoin (cookie)",
+	"cookie-expiration": "Expiration du cookie",
 	"clearcookies-success": "Les témoins (cookies) ont bien été supprimés.",
 	"renewcookies-success": "Témoins (cookies) renouvelés ! Vous êtes prêt pour une durée de $1.",
 	"tab-overview": "Vue d’ensemble",
