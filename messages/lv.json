@@ -1,9 +1,13 @@
 {
-	"@metadata": [],
-	"settings-legend": "Uzstādījumi",
+	"@metadata": {
+		"authors": [
+			"Papuass"
+		]
+	},
+	"settings-legend": "Iestatījumi",
 	"choose-language": "Izvēlies valodu",
 	"tab-overview": "Pārskats",
-	"tab-settings": "Uzstādījumi",
+	"tab-settings": "Iestatījumi",
 	"tab-about": "Par",
 	"tab-demo": "Demonstrācija"
 }
