@@ -1,5 +1,15 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Dr Lotus Black"
+		]
+	},
+	"fullname": "ကိရိယာများအတွက် နိုင်ငံတကာပြုခြင်း",
+	"current-settings": "လက်ရှိ အပြင်အဆင်များ",
+	"current-language": "ရွေးချယ်ထားသော ဘာသာစကား",
+	"settings-legend": "အပြင်အဆင်များ",
 	"choose-language": "ဘာသာစကား ရွေးချယ်ပါ",
+	"tab-overview": "ခြုံငုံသုံးသပ်ချက်",
+	"tab-settings": "အပြင်အဆင်များ",
 	"tab-about": "အကြောင်း"
 }
