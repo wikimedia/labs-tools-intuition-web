@@ -2,7 +2,6 @@
 /* Config */
 require_once 'demoBase.php';
 
-
 /* Demonstration */
 
 // 1) Init
@@ -34,7 +33,6 @@ echo '<br/>' . $I18N->msg( 'basket', array( 'variables' => array( '1' ), 'parsem
 
 // - Trigger parser magic, setting $1 to '7'
 echo '<br/>' . $I18N->msg( 'basket', array( 'variables' => array( '7' ), 'parsemag' => true ) );
-
 
 /* View source */
 closeDemo( __FILE__ );

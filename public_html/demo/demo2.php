@@ -2,7 +2,6 @@
 /* Config */
 require_once 'demoBase.php';
 
-
 /* Demonstration */
 
 // Because 'suppressnotices' is true (default), this won't trigger a notice.

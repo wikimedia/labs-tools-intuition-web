@@ -2,7 +2,6 @@
 /* Config */
 require_once 'demoBase.php';
 
-
 /* Demonstration */
 
 // 1) Init
@@ -15,7 +14,6 @@ echo $I18N->getLangName();
 
 // - Specific language name
 echo '<br/>' . $I18N->getLangName( 'fr' );
-
 
 /* View source */
 closeDemo( __FILE__ );

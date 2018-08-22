@@ -2,8 +2,8 @@
 /**
  * Entry point for the Intuition web API.
  *
- * @author Timo Tijhof
- * @license https://krinkle.mit-license.org/@2017
+ * @copyright 2017 Timo Tijhof
+ * @license MIT
  */
 
 /**
@@ -24,7 +24,10 @@ if ( file_exists( __DIR__ . '/../config.php' ) ) {
  * -------------------------------------------------
  */
 
-function i18nApiResp( $data ) {
+/**
+ * @param array $data
+ */
+function i18nApiResp( array $data ) {
 	global $kgReq;
 
 	$callback = $kgReq->getVal( 'callback' );
@@ -66,7 +69,7 @@ $lang = $kgReq->getVal( 'lang', $I18N->getLang() );
  * -------------------------------------------------
  */
 
-$resp = array();
+$resp = [];
 
 if ( !$domains ) {
 	// HTTP 400 Bad Request
@@ -77,7 +80,7 @@ if ( !$domains ) {
 
 $domains = explode( '|', $domains );
 
-$resp['messages'] = array();
+$resp['messages'] = [];
 
 foreach ( $domains as $domain ) {
 	$exists = $I18N->getDomainInfo( $domain );

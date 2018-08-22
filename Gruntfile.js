@@ -8,6 +8,14 @@ module.exports = function (grunt) {
       all: ['*.js', '{js-env,public_html}/*.js']
     },
     qunit: {
+      options: {
+        puppeteer: !process.env.CI ? {} : {
+          args: [
+            // https://docs.travis-ci.com/user/chrome#sandboxing
+            '--no-sandbox'
+          ]
+        }
+      },
       all: ['tests/qunit/index.html']
     }
   });

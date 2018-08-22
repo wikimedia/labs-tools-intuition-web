@@ -4,8 +4,8 @@
  *
  * This file outputs the interface to change user preferences.
  *
- * @author Timo Tijhof
- * @license https://krinkle.mit-license.org/@2017
+ * @copyright 2017 Timo Tijhof
+ * @license MIT
  */
 
 /**
@@ -21,7 +21,6 @@ $I18N->registerDomain( 'web', __DIR__ . '/../messages' );
 if ( file_exists( __DIR__ . '/../config.php' ) ) {
 	require_once __DIR__ . '/../config.php';
 };
-
 
 // Initialize BaseTool
 $Tool = BaseTool::newFromArray( array(
@@ -104,7 +103,6 @@ if ( $I18N->isRedirecting() ) {
 		$I18N->redirectTo( "//{$_SERVER['SERVER_NAME']}$returnTo$returnToQuery", 302 );
 	}
 }
-
 
 $I18N->doRedirect();
 
@@ -240,7 +238,6 @@ if ( $I18N->hasCookies() ) {
 	$settingsIsFirst = true;
 }
 
-
 // Settings form
 $dropdown = '<select name="fpLang" class="form-control">';
 $selected = ' selected';
@@ -288,7 +285,6 @@ $tabContent .= Html::openElement( 'div', array(
 </fieldset></form>
 </div>';
 
-
 // About tab
 
 $about = '<div class="tab-pane" id="tab-about">';
@@ -304,7 +300,7 @@ $about .= '<a href="https://translatewiki.net/wiki/Translating:Intuition">'
 	.	'</a>';
 $about .= ''
 	. '<div class="lead">' . $I18N->msg( 'usage' ) . '</div><ul>';
-$tools = json_decode( file_get_contents( __DIR__ . '/tools.json' ), /* assoc = */ true );
+$tools = json_decode( file_get_contents( __DIR__ . '/tools.json' ), true );
 foreach ( $tools as $domain => $info ) {
 	if ( isset( $info['title-msg'] ) ) {
 		$title = $I18N->msg( $info['title-msg'][1], $info['title-msg'][0] );

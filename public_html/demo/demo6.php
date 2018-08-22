@@ -2,7 +2,6 @@
 /* Config */
 require_once 'demoBase.php';
 
-
 /* Demonstration */
 
 // 1) Init
@@ -70,7 +69,6 @@ var_dump(
 	IntuitionUtil::getAcceptableLanguages( $acceptLang )
 
 );
-
 
 /* View source */
 closeDemo( __FILE__ );

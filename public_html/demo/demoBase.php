@@ -69,7 +69,6 @@ $startHTML = <<<HTML
 HTML;
 $outputHead = '<h3>Output</h3>';
 
-
 // Start output
 header( 'Content-Type: text/html; charset=utf-8' );
 echo $startHTML . "<p><em>&larr; <a href=\"../\">Return to Dashboard</a></em></p><ul>";
@@ -84,8 +83,10 @@ echo '</ul>';
 echo $outputHead;
 echo '<div style="white-space: pre;">';
 
-
-// Output source-heading and source code
+/**
+ * Output source-heading and source code
+ * @param string $file Path to file
+ */
 function viewSource( $file ) {
 	echo '<h3>Source</h3>'
 	. '<pre>'
@@ -93,7 +94,10 @@ function viewSource( $file ) {
 	. '</pre>';
 }
 
-// End of track
+/**
+ * End of track
+ * @param string $file Path to file
+ */
 function closeDemo( $file ) {
 	echo '</div>';
 	viewSource( $file );
@@ -101,6 +105,6 @@ function closeDemo( $file ) {
 }
 
 // Make this file viewable as well
-if ( $thisFile == 'demoBase' ){
+if ( $thisFile == 'demoBase' ) {
 	closeDemo( __FILE__ );
 }

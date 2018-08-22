@@ -2,7 +2,6 @@
 /* Config */
 require_once 'demoBase.php';
 
-
 /* Demonstration */
 
 // 1) Init $I18N
@@ -12,7 +11,6 @@ $I18N = new Intuition( 'demo' );
 var_dump(
 	$I18N->getDomainInfo( 'general' )
 );
-
 
 /* View source */
 closeDemo( __FILE__ );

@@ -2,9 +2,9 @@
 /**
  * wpAvailableLanguages.js.php
  *
- * @author Timo Tijhof, 2012-2014
- * @license CC0 <https://creativecommons.org/publicdomain/zero/1.0/legalcode>
- * @license MIT <http://krinkle.mit-license.org/>
+ * @copyright 2017 Timo Tijhof
+ * @license MIT
+ * @license CC0
  */
 
 // Configuration

@@ -2,8 +2,8 @@
 /**
  * Entry point for loading the Intuition client javascript.
  *
- * @author Timo Tijhof
- * @license https://krinkle.mit-license.org/@2017
+ * @copyright 2017 Timo Tijhof
+ * @license MIT
  */
 
 /**
@@ -49,7 +49,6 @@ if ( !in_array( $env, array( 'mw', 'standalone' ) ) ) {
 	echo '/* Invalid value for parameter "env". */';
 	exit;
 }
-
 
 $jsEnvFile = dirname( __DIR__ ) . '/js-env/intuition-' . $env . '.js';
 if ( !is_readable( $jsEnvFile ) ) {
