@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Meno25"
+		]
+	},
 	"fullname": "أقلمة واجهة مستخدم الأدوات",
 	"current-settings": "الإعدادات الحالية",
 	"current-language": "اللغة المختارة",
@@ -12,7 +16,7 @@
 	"renewcookies-success": "تم تجديد الكوكيز! أنت الآن جاهز للنص $1.",
 	"tab-overview": "نظرة عامة",
 	"tab-settings": "الإعدادات",
-	"tab-about": "عن",
+	"tab-about": "حول",
 	"tab-demo": "تجربة",
 	"usage": "الأدوات التي تمت ترجمتها بواسطة Intuition."
 }
