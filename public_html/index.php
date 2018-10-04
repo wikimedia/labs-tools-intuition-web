@@ -156,17 +156,17 @@ if ( $I18N->hasCookies() ) {
 		$cookieHealthIcon = 'ok';
 
 		$number = floor( $lifetime / 3600 / 24 / 29 );
-		$time = $number . '+ ' . _g( 'months', array(
+		$time = $number . ' ' . _g( 'months', array(
 			'parsemag' => true, 'variables' => array( $number )
 		) );
 
 	// 10+ days
 	} elseif ( $lifetime > 10 * 24 * 3600 ) {
-		$cookieHealthClass = 'warning';
-		$cookieHealthIcon = 'warning-sign';
+		$cookieHealthClass = 'success';
+		$cookieHealthIcon = 'ok';
 
-		$number = floor( $lifetime / 3600 / 24 );
-		$time = $number . '+ ' . _g( 'days', array(
+		$number = ceil( $lifetime / 3600 / 24 );
+		$time = $number . ' ' . _g( 'days', array(
 			'parsemag' => true, 'variables' => array( $number )
 		) );
 		$after = $renew;
@@ -176,8 +176,8 @@ if ( $I18N->hasCookies() ) {
 		$cookieHealthClass = 'warning';
 		$cookieHealthIcon = 'warning-sign';
 
-		$number = floor( $lifetime / 3600 / 24 );
-		$time = $number . '+ ' . _g( 'days', array(
+		$number = ceil( $lifetime / 3600 / 24 );
+		$time = $number . ' ' . _g( 'days', array(
 			'parsemag' => true, 'variables' => array( $number )
 		) );
 		$after = $renew;
@@ -188,7 +188,7 @@ if ( $I18N->hasCookies() ) {
 		$cookieHealthIcon = 'remove';
 
 		$number = ceil( $lifetime / 3600 );
-		$time = '<' . $number . '+ ' . _g( 'hours', array(
+		$time = '<' . $number . ' ' . _g( 'hours', array(
 			'parsemag' => true, 'variables' => array( $number )
 		) );
 		$after = $renew;
