@@ -13,6 +13,9 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
+// Don't output HTML-formatted errors
+ini_set( 'display_errors', 0 );
+
 $I18N = new Intuition( 'web' );
 
 if ( file_exists( __DIR__ . '/../config.php' ) ) {
