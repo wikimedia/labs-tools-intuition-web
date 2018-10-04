@@ -12,9 +12,3 @@ PHP 7.0 or higher is required, and [Composer](https://getcomposer.org).
 git clone https://github.com/Krinkle/intuition-web.git && cd integration-web
 composer install --no-dev
 </pre>
-
-
-## Configure
-
-To change the url path of `dashboardHome`, copy `sample-config.php` to
-`config.php` and update its value from the default.

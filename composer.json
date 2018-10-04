@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"require": {
 		"php": ">=7.0",
-		"krinkle/toollabs-base": "^0.8.1",
+		"krinkle/toollabs-base": "^1.0.1",
 		"krinkle/intuition": "^1.1.0"
 	},
 	"require-dev": {

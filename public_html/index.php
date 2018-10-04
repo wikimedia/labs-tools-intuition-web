@@ -19,17 +19,14 @@ $I18N = new Intuition( 'web' );
 $I18N->registerDomain( 'web', __DIR__ . '/../messages' );
 
 if ( file_exists( __DIR__ . '/../config.php' ) ) {
+	// Optional overrides for $I18N
 	require_once __DIR__ . '/../config.php';
 };
 
 // Initialize BaseTool
 $Tool = BaseTool::newFromArray( array(
 	'displayTitle' => $I18N->msg( 'title' ),
-	// FIXME:
-	// BaseTool remoteBasePath must end in a slash
-	// kgConf remoteBase must end without a slash
-	'remoteBasePath' => rtrim( $I18N->dashboardHome, '/' ) . '/',
-	'localBasePath' => $I18N->localBaseDir,
+	'remoteBasePath' => dirname( $_SERVER['PHP_SELF'] ),
 	'I18N' => $I18N,
 	'styles' => array(
 		'main.css',
@@ -38,7 +35,7 @@ $Tool = BaseTool::newFromArray( array(
 		'main.js',
 	),
 	'licenses' => array(
-		'CC-BY 3.0' => 'https://creativecommons.org/licenses/by/3.0/'
+		'MIT'
 	),
 ) );
 $Tool->setSourceInfoGithub( 'Krinkle', 'intuition-web', dirname( __DIR__ ) );
@@ -250,13 +247,13 @@ foreach ( $I18N->getAvailableLangs() as $langCode => $langName ) {
 $dropdown .= '</select>';
 
 $toolSettings['tabs']['#tab-settingsform'] = $I18N->msg( 'tab-settings' );
-$tabContent .= Html::openElement( 'div', array(
+$tabContent .= Html::rawElement( 'div', array(
 		'class' => array(
 			'tab-pane',
-			'active' => $settingsIsFirst,
+			( $settingsIsFirst ? 'active' : '' ),
 		),
 		'id' => 'tab-settingsform'
-	) ) . '<form action="' . $Tool->remoteBasePath
+	), '<form action="' . $Tool->remoteBasePath
 		. '" method="post" role="form" class="form-horizontal">
 	<fieldset>
 	<legend>' . $I18N->msg( 'settings-legend' ) . '</legend>
@@ -282,8 +279,7 @@ $tabContent .= Html::openElement( 'div', array(
 		</div>
 	</div>
 
-</fieldset></form>
-</div>';
+</fieldset></form>' );
 
 // About tab
 
@@ -330,7 +326,7 @@ $firstTabId = key( $toolSettings['tabs'] );
 foreach ( $toolSettings['tabs'] as $tabID => $tabName ) {
 	$tabBar .= Html::rawElement( 'li', array(
 		'class' => array(
-			'active' => $tabID === $firstTabId,
+			( $tabID === $firstTabId ? 'active' : '' ),
 		)
 	), Html::element( 'a', array(
 		'href' => $tabID,
