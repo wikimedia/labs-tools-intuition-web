@@ -5,9 +5,9 @@
 		]
 	},
 	"fullname": "Internacionalizacija alatki",
-	"current-settings": "Tekuće postavke",
+	"current-settings": "Trenutna podešavanja",
 	"current-language": "Izabrani jezik",
-	"settings-legend": "Postavke",
+	"settings-legend": "Podešavanja",
 	"choose-language": "Izaberite jezik",
 	"clear-cookies": "očisti kolačiće",
 	"renew-cookies": "obnovi kolačiće",
@@ -15,8 +15,8 @@
 	"clearcookies-success": "Kolačići su očišćeni.",
 	"renewcookies-success": "Kolačići su obnovljeni. Oni će isteći za $1.",
 	"tab-overview": "Pregled",
-	"tab-settings": "Postavke",
+	"tab-settings": "Podešavanja",
 	"tab-about": "O alatki",
 	"tab-demo": "Demo",
-	"usage": "Alatke koje je preveo Tulserver intuišon:"
+	"usage": "Alatke koje se prevode pomoću Intuition-a."
 }

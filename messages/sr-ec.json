@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Prevodim"
+			"Prevodim",
+			"BadDog"
 		]
 	},
 	"fullname": "Интернационализација алатки",
@@ -9,7 +10,7 @@
 	"current-language": "Изабрани језик",
 	"settings-legend": "Подешавања",
 	"choose-language": "Изаберите језик",
-	"clear-cookies": "очисти колачиће",
+	"clear-cookies": "обриши колачиће",
 	"renew-cookies": "обнови колачиће",
 	"cookie-expiration": "Истек колачића",
 	"clearcookies-success": "Колачићи су очишћени.",
