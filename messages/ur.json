@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Muhammad Shuaib"
+		]
+	},
+	"fullname": "آلات کی بین الاقوامی سازی",
 	"current-settings": "حالیہ ترتیبات",
 	"current-language": "منتخب زبان",
 	"settings-legend": "ترتیبات",
