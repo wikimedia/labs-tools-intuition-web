@@ -1,5 +1,10 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Orbot707"
+		]
+	},
+	"fullname": "Seba haceta beynelmillel kerdış",
 	"current-settings": "Sazê enewki",
 	"current-language": "Zıwan weçine",
 	"settings-legend": "Eyari",
@@ -8,6 +13,7 @@
 	"renew-cookies": "çerezan newe ke",
 	"cookie-expiration": "wahdey çereza biyo pır",
 	"clearcookies-success": "Çerezi weş besterneyay",
+	"renewcookies-success": "Çerezi esteriyay! Bahdoyên $1'i rê şıma hazıri.",
 	"tab-overview": "Hera weynayis",
 	"tab-settings": "Eyari",
 	"tab-about": "Heqa cı de",
