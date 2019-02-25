@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Orbot707"
+			"Orbot707",
+			"Mirzali"
 		]
 	},
 	"fullname": "Seba haceta beynelmillel kerdış",
@@ -14,7 +15,7 @@
 	"cookie-expiration": "wahdey çereza biyo pır",
 	"clearcookies-success": "Çerezi weş besterneyay",
 	"renewcookies-success": "Çerezi esteriyay! Bahdoyên $1'i rê şıma hazıri.",
-	"tab-overview": "Hera weynayis",
+	"tab-overview": "Serqayt",
 	"tab-settings": "Eyari",
 	"tab-about": "Heqa cı de",
 	"tab-demo": "Demo",
