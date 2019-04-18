@@ -1,18 +1,22 @@
 {
-	"@metadata": [],
-	"fullname": "جهون گرایی کردن سی اوزاریا",
-	"current-settings": "تنظیمات تازه باو",
-	"current-language": "زون تازه باو انتخاو بیه",
-	"settings-legend": "تنظيمات",
-	"choose-language": "يه گل زون انتخاو بكيد",
-	"clear-cookies": "کوکی یانه پاک بکید",
-	"renew-cookies": "کوکیا نه پاک بکید",
-	"cookie-expiration": "تموم بین ویرگار مصرف کوکی",
-	"clearcookies-success": "کوکیا سی همیشه پاک بیه",
-	"renewcookies-success": "کوکیا ز نو تازه بیه!",
-	"tab-overview": "بیش سیل",
-	"tab-settings": "تنظيمات",
-	"tab-about": "دباره",
+	"@metadata": {
+		"authors": [
+			"Lorestani"
+		]
+	},
+	"fullname": "جهون گرایی کردن سی ٱڤزارؽا",
+	"current-settings": "میزوکاری ایسنی",
+	"current-language": "اْنتخاب زڤون",
+	"settings-legend": "میزوکاری",
+	"choose-language": "یاٛ زڤون اْنتخاب بٱکؽت",
+	"clear-cookies": "کۊکیا ناْ پاک بٱکؽت",
+	"renew-cookies": "کۊکیا ناْ پاک بٱکؽت",
+	"cookie-expiration": "تموم بیئن ڤیرگار مٱسرٱف کۊکی",
+	"clearcookies-success": "کۊکیا سی همیشٱ پاک بیٱ",
+	"renewcookies-success": "کۊکیا د نۊ تازٱ بیٱ!",
+	"tab-overview": "بیش ساٛلٛ",
+	"tab-settings": "میزوکاری",
+	"tab-about": "دٱربارٱ",
 	"tab-demo": "دمو",
-	"usage": "اوزاریا لرسه وا نهاد"
+	"usage": "ٱڤزارؽا لٛرنیئن ڤا نهاد."
 }
