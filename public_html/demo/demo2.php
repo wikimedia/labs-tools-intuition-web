@@ -1,5 +1,8 @@
 <?php
 /* Config */
+
+use Krinkle\Intuition\Intuition;
+
 require_once 'demoBase.php';
 
 /* Demonstration */
@@ -19,7 +22,7 @@ $I18N = new Intuition( array(
 ) );
 echo $I18N->msg( 'bar' ) . '<br/>';
 
-// Because 'suppressbrackets' is true, gthis will display "Quux" instead of "[quux]"
+// Because 'suppressbrackets' is true, this will display "Quux" instead of "[quux]"
 $I18N = new Intuition( array(
 	'domain' => 'demo',
 

@@ -1,5 +1,9 @@
 <?php
 /* Config */
+
+use Krinkle\Intuition\Intuition;
+use Krinkle\Intuition\Util as IntuitionUtil;
+
 require_once 'demoBase.php';
 
 /* Demonstration */

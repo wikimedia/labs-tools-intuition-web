@@ -6,6 +6,8 @@
  * @license MIT
  */
 
+use Krinkle\Intuition\Intuition;
+
 /**
  * Set up
  * -------------------------------------------------

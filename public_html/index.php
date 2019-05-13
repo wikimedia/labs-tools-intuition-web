@@ -8,6 +8,8 @@
  * @license MIT
  */
 
+use Krinkle\Intuition\Intuition;
+
 /**
  * Configuration
  * -------------------------------------------------
@@ -15,7 +17,10 @@
 
 require_once __DIR__ . '/../vendor/autoload.php';
 
-$I18N = new Intuition( 'web' );
+$I18N = new Intuition( [
+	'domain' => 'web',
+	'globalfunctions' => true,
+] );
 $I18N->registerDomain( 'web', __DIR__ . '/../messages' );
 
 if ( file_exists( __DIR__ . '/../config.php' ) ) {
