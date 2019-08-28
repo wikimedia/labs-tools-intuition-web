@@ -39,6 +39,8 @@ function i18nApiResp( array $data ) {
 
 	// Allow CORS (to avoid having to use JSON-P with cache busting callback)
 	$kgReq->setHeader( 'Access-Control-Allow-Origin', '*' );
+	// Whitelist of headers for cross-origin requests (T231356)
+	$kgReq->setHeader( 'Access-Control-Allow-Headers: X-Wikimedia-Debug' );
 
 	// We don't yet support retrieval of when the localisation was last updated,
 	// so default to unconditionally caching for 5 minutes.
