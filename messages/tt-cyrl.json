@@ -4,8 +4,11 @@
 			"Ерней"
 		]
 	},
+	"current-settings": "Хәзерге көйләнмәләр",
+	"current-language": "Сайланган тел",
 	"settings-legend": "Көйләнмәләр",
 	"choose-language": "Телне сайлагыз",
+	"tab-overview": "Карап чыгу",
 	"tab-settings": "Көйләнмәләр",
 	"tab-about": "Тасвирлама",
 	"tab-demo": "Демо"
