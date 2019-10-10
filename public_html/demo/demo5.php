@@ -2,6 +2,7 @@
 /* Config */
 
 use Krinkle\Intuition\Intuition;
+
 require_once 'demoBase.php';
 $I18N = new Intuition( 'demo' );
 

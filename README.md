@@ -6,7 +6,7 @@ Web interface for [Intuition](https://github.com/Krinkle/intuition).
 
 ## Install
 
-PHP 7.0 or higher is required, and [Composer](https://getcomposer.org).
+PHP 7.2 or higher is required, and [Composer](https://getcomposer.org).
 
 <pre lang="sh">
 git clone https://github.com/Krinkle/intuition-web.git && cd intuition-web
