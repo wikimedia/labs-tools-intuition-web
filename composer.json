@@ -3,7 +3,7 @@
 	"description": "Web interface for Intuition.",
 	"license": "MIT",
 	"require": {
-		"php": ">=7.0",
+		"php": ">=7.2",
 		"krinkle/toollabs-base": "^1.0.2",
 		"krinkle/intuition": "^2.0.0"
 	},
@@ -15,7 +15,7 @@
 		"test": [
 			"parallel-lint . --exclude libs --exclude vendor --exclude node_modules",
 			"phpcs -p -s",
-			"npm install && npm test"
+			"npm ci && npm test"
 		]
 	}
 }
