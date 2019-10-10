@@ -153,7 +153,7 @@ if ( $I18N->hasCookies() ) {
 	$cookieHealthIcon = false;
 	$renew = '<p class="help-block">' . Html::element( 'a', array(
 		'href' => $Tool->generatePermalink( array( 'action' => 'renewcookies' ) )
-	), $I18N->msg( 'renew-cookies' ) ) .'</p>';
+	), $I18N->msg( 'renew-cookies' ) ) . '</p>';
 
 	// 29+ days
 	if ( $lifetime > 29 * 24 * 3600 ) {
@@ -276,7 +276,7 @@ $tabContent .= Html::rawElement( 'div', array(
 	<input type="hidden" name="returnto" value="' .
 		htmlspecialchars( $kgReq->getVal( 'returnto' ) ) . '">
 	<input type="hidden" name="returntoquery" value="' .
-		htmlspecialchars( $kgReq->getVal( 'returntoquery' ) )  . '">
+		htmlspecialchars( $kgReq->getVal( 'returntoquery' ) ) . '">
 	<div class="form-group">
 		<div class="col-sm-offset-4 col-sm-8">
 			<input type="submit" class="btn btn-default btn-primary" value="'

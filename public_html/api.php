@@ -62,7 +62,7 @@ function i18nApiResp( array $data ) {
 
 		// Sanatize callback
 		$callback = kfSanatizeJsCallback( $callback );
-		echo $callback . '(' . json_encode( $data ) .');';
+		echo $callback . '(' . json_encode( $data ) . ');';
 	}
 
 	exit;
