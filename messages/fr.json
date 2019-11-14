@@ -3,22 +3,23 @@
 		"authors": [
 			"Gomoko",
 			"Urhixidur",
-			"Envlh"
+			"Envlh",
+			"Verdy p"
 		]
 	},
 	"title": "Intuition",
 	"fullname": "Internationalisation des outils",
 	"current-settings": "Paramètres actuels",
 	"current-language": "Langue sélectionnée",
-	"settings-legend": "Configuration",
+	"settings-legend": "Paramètres",
 	"choose-language": "Choisissez une langue",
-	"clear-cookies": "supprimer les témoins (cookies)",
-	"renew-cookies": "renouveler les témoins (cookies)",
-	"cookie-expiration": "Expiration du cookie",
-	"clearcookies-success": "Les témoins (cookies) ont bien été supprimés.",
-	"renewcookies-success": "Témoins (cookies) renouvelés ! Vous êtes prêt pour une durée de $1.",
+	"clear-cookies": "effacer les témoins (''cookies'')",
+	"renew-cookies": "renouveler les témoins (''cookies'')",
+	"cookie-expiration": "Expiration du témoin (''cookie'')",
+	"clearcookies-success": "Les témoins (''cookies'') ont bien été effacés.",
+	"renewcookies-success": "Témoins (''cookies'') renouvelés ! Vous êtes prêt pour la période suivante de $1.",
 	"tab-overview": "Vue d’ensemble",
-	"tab-settings": "Configuration",
+	"tab-settings": "Paramètres",
 	"tab-about": "À propos",
 	"tab-demo": "Démo",
 	"usage": "Outils traduits par Intuition."
