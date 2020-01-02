@@ -1,5 +1,9 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"BaRaN6161 TURK"
+		]
+	},
 	"fullname": "Toolserver'ın Kullanıcı Arayüzü için Uluslararasılaştırma",
 	"current-settings": "Güncel ayarlar",
 	"current-language": "Halihazırda seçilmiş dil",
@@ -10,7 +14,7 @@
 	"cookie-expiration": "Çerez süresinin dolumu",
 	"clearcookies-success": "Çerezler başarıyla temizlendi.",
 	"renewcookies-success": "Çerezler temizlendi! Sonraki $1 için hazırsınız.",
-	"tab-overview": "Genel görünüm",
+	"tab-overview": "Genel bakış",
 	"tab-settings": "Ayarlar",
 	"tab-about": "Hakkında",
 	"tab-demo": "Demo",
