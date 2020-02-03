@@ -4,19 +4,19 @@
 			"BaRaN6161 TURK"
 		]
 	},
-	"fullname": "Toolserver'ın Kullanıcı Arayüzü için Uluslararasılaştırma",
+	"fullname": "Araçlar için uluslararasılaştırma",
 	"current-settings": "Güncel ayarlar",
-	"current-language": "Halihazırda seçilmiş dil",
+	"current-language": "Seçilen dil",
 	"settings-legend": "Ayarlar",
 	"choose-language": "Bir dil seçin",
 	"clear-cookies": "çerezleri temizle",
 	"renew-cookies": "çerezleri yenile",
 	"cookie-expiration": "Çerez süresinin dolumu",
-	"clearcookies-success": "Çerezler başarıyla temizlendi.",
-	"renewcookies-success": "Çerezler temizlendi! Sonraki $1 için hazırsınız.",
+	"clearcookies-success": "Çerezler temizlendi.",
+	"renewcookies-success": "Çerezler yenilendi! Bir sonraki $1 için hazırsınız.",
 	"tab-overview": "Genel bakış",
 	"tab-settings": "Ayarlar",
 	"tab-about": "Hakkında",
 	"tab-demo": "Demo",
-	"usage": "Toolserver Intuition tarafından çevrilen araçlar."
+	"usage": "Intuition tercüme edilen araçlar."
 }
