@@ -1,9 +1,13 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": [
+			"Patriot Kur"
+		]
+	},
 	"settings-legend": "Кукон",
 	"choose-language": "Зывон бывыжнән",
 	"clear-cookies": "Cookies рәдд кардеј",
 	"tab-overview": "Чәшику дәвоније",
 	"tab-settings": "Кукон",
-	"tab-about": "Тәсвир"
+	"tab-about": "Həxədə"
 }
