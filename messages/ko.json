@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "도구의 국제화",
 	"current-settings": "현재 설정",
 	"current-language": "선택한 언어",

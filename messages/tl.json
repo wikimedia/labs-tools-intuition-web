@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Pagsasandaigdigan para sa Ugnayang-Mukha ng Toolserver",
 	"current-settings": "Pangkasalukuyang mga katakdaan",
 	"current-language": "Pangkasalukuyang napiling wika",

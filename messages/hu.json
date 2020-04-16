@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Többnyelvűsítés eszközöknek",
 	"current-settings": "Jelenlegi beállítások",
 	"current-language": "Kiválasztott nyelv",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Oraingo hobespenak",
 	"current-language": "Hautatutako hizkuntza",
 	"settings-legend": "Hobespenak",

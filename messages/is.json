@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Núverandi stillingar",
 	"current-language": "Valið tungumál",
 	"settings-legend": "Stillingar",

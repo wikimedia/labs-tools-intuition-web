@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "టూల్‌సర్వర్ పనిముట్ల అంతర్జాతీయీకరణ",
 	"current-settings": "ప్రస్తుత అమరికలు",
 	"current-language": "ప్రస్తుతం ఎంచుకున్న భాష",

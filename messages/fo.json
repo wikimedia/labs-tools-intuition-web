@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Altjóðagerð av tólum",
 	"current-settings": "Galdandi innstillingar",
 	"current-language": "Valt mál í løtuni",

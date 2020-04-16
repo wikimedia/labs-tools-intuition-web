@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"settings-legend": "सेटिङ्हरू",
 	"choose-language": "भाषा चुन्ने",
 	"clear-cookies": "कुकीहरू हटाउने",

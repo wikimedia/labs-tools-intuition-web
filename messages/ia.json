@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Internationalisation pro instrumentos",
 	"current-settings": "Configuration actual",
 	"current-language": "Lingua actualmente seligite",

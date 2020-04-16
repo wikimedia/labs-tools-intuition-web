@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Internacionalizacija įrankiams",
 	"current-settings": "Esami nustatymai",
 	"current-language": "Pasirinkta kalba",

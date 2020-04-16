@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Mpangilio wa sasa",
 	"current-language": "Lugha iliyochaguliwa kwa sasa",
 	"settings-legend": "Mpangilio",

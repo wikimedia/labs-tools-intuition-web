@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Vertalingen voor tools",
 	"current-settings": "Huidige instellingen",
 	"current-language": "Huidige taal",

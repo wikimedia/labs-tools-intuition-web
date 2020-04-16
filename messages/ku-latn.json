@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Eyarên niha",
 	"current-language": "Zimanekî hilbijêre",
 	"settings-legend": "Eyar",

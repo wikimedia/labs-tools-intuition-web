@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "בִנאום עבור הכלים",
 	"current-settings": "הגדרות נוכחיות",
 	"current-language": "השפה שנבחרה",

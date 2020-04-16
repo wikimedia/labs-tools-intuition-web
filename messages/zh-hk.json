@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Toolserver用戶界面國際化",
 	"current-settings": "目前設置",
 	"current-language": "目前所選語言",

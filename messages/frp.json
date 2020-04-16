@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Entèrnacionalisacion de l’entèrface utilisator du Toolserver",
 	"current-settings": "Configuracion d’ora",
 	"current-language": "Lengoua ora chouèsia",

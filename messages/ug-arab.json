@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Toolserver نىڭ ئىشلەتكۈچى ئارا يۈزىنى خەلقئارالاشتۇرۇش",
 	"current-settings": "نۆۋەتتىكى تەڭشەكلەر",
 	"current-language": "نۆۋەتتە تاللانغان تىل",

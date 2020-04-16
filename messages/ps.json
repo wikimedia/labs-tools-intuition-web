@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "اوسنۍ امستنې",
 	"current-language": "د دم مهال ټاکلې ژبه",
 	"settings-legend": "امستنې",

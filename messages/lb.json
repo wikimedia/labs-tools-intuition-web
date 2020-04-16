@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Iwwersetzunge fir Tools",
 	"current-settings": "Aktuell Astellungen",
 	"current-language": "Erausgesicht Sprooch",

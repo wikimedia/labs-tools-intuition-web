@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Internaționalizare pentru unelte",
 	"current-settings": "Setări curente",
 	"current-language": "Limbă selectată",

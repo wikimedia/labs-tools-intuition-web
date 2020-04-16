@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "ಉಪಕರಣಗಳ  ಅಂತರ್ರಾಷ್ಟ್ರೀಕರಣ",
 	"current-settings": "ಈಗಿನ ವ್ಯವಸ್ಥೆಗಳು",
 	"current-language": "ಭಾಷೆಯ ಆಯ್ಕೆ",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Satilan wahini",
 	"settings-legend": "Satilan",
 	"tab-settings": "Satilan",

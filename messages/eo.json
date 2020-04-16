@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Internaciigo por iloj",
 	"current-settings": "Nuntempaj agordoj",
 	"current-language": "Elektita lingvo",

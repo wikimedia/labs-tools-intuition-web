@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Parametrat aktualë",
 	"current-language": "Gjuha e përzgjedhur aktualisht",
 	"settings-legend": "Parametrat",

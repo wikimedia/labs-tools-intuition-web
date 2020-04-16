@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Toolserver පරිශීලක අතුරුමුහණත සඳහා ජාත්‍යන්තරකරණය",
 	"current-settings": "වත්මන් සැකසුම්",
 	"current-language": "වත්මන් තෝරාගත් භෂාව",

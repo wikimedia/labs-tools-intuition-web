@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Құралдар үшін халықаралықтандыру",
 	"current-settings": "Қазіргі баптаулар",
 	"current-language": "Таңдалған тіл",

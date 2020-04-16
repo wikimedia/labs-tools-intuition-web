@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "მიმდინარე პარამეტრები",
 	"current-language": "არჩეული ენა",
 	"settings-legend": "პარამეტრები",

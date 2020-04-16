@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Přełožki za nastroje",
 	"current-settings": "Aktualne nstajenja",
 	"current-language": "Tuchwilu wubrana rěč",

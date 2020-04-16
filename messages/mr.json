@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "साधनांसाठीचे आंतरराष्ट्रीयीकरण",
 	"current-settings": "सध्याचे स्थापन(सेटिंग)",
 	"current-language": "निवडलेली भाषा",

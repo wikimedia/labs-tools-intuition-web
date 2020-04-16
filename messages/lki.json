@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "بین‌المللی سازی برای ابزارها",
 	"current-settings": "تنظیمات کنونی",
 	"current-language": "زوون انتخاب کۀ",

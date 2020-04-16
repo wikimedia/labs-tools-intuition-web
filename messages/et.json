@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Tööriistade tõlkimine ja kohandamine",
 	"current-settings": "Praegused sätted",
 	"current-language": "Valitud keel",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "उपकरणों के लिये अंतर्राष्ट्रीयकरण",
 	"current-settings": "वर्तमान सेटिंग्स",
 	"current-language": "चयनित भाषा",

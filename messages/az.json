@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-language": "Seçdiyiniz dil",
 	"settings-legend": "Nizamlamalar",
 	"choose-language": "Dil seçin",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"settings-legend": "Uffstellinge",
 	"tab-settings": "Uffstellinge",
 	"tab-about": "Iwwer",

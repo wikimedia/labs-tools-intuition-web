@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Nygözet azetukset",
 	"current-language": "Vallittu kieli",
 	"settings-legend": "Azetukset",

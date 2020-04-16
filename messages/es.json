@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Internacionalización para las herramientas",
 	"current-settings": "Configuración actual",
 	"current-language": "Idioma seleccionado",

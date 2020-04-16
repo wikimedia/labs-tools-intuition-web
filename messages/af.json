@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Huidige instellings",
 	"current-language": "Huidig gekose taal",
 	"settings-legend": "Instellings",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Интеркъаьмнийн гӀирс бан",
 	"current-settings": "Карара гӀирс нисбарш",
 	"current-language": "Хаьржина мотт",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "વર્તમાન સુયોજનો",
 	"current-language": "હાલમાં પસંદ કરાયેલ ભાષા",
 	"settings-legend": "સુયોજનો",

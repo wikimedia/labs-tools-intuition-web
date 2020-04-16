@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "ការកំណត់បច្ចុប្បន្ន",
 	"current-language": "ភាសាដែលបានជ្រើសរើសបច្ចុប្បន្ននេះ",
 	"settings-legend": "ការកំណត់​ផ្សេងៗ",

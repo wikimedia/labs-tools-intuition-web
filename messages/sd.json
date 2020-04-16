@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "تازيون ترتيبون",
 	"current-language": "چونڊيل ٻولي",
 	"settings-legend": "ترتيبون",

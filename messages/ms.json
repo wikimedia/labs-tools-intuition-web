@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Pengantarabangsaan untuk peralatan",
 	"current-settings": "Tetapan semasa",
 	"current-language": "Bahasa yang dipilih",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"settings-legend": "ਪਸੰਦਾੰ",
 	"choose-language": "ਭਾਸ਼ਾ ਚੁਣੋ",
 	"tab-overview": "ਸੰਖੇਪ",

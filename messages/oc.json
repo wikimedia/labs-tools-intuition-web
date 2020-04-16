@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Paramètres actuals",
 	"current-language": "Lenga seleccionada",
 	"settings-legend": "Paramètres",

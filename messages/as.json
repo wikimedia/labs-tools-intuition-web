@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "বর্তমানৰ পছন্দসমূহ",
 	"settings-legend": "পছন্দসমূহ",
 	"choose-language": "ভাষা নির্বাচন কৰক",

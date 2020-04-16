@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Pśełožki za rědy",
 	"current-settings": "Aktualne nstajenja",
 	"current-language": "Tuchylu wubrana rěc",

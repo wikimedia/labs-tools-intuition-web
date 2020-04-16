@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-language": "Zvolený jazyk",
 	"settings-legend": "Nastavenia",
 	"choose-language": "Zvoľte si jazyk",

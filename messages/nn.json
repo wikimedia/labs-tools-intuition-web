@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Internationalisering av verktøy",
 	"current-settings": "Innstillingane no",
 	"current-language": "Valt språk",

@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Konfigurazzjoni attwali",
 	"current-language": "Lingwa magħżula bħalissa",
 	"settings-legend": "Konfigurazzjoni",

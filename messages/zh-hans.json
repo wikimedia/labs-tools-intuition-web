@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "工具国际化",
 	"current-settings": "当前设置",
 	"current-language": "选择的语言",

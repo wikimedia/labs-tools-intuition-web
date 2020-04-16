@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Prijevod za korisnički interfejs Toolservera",
 	"current-settings": "Trenutne postavke",
 	"current-language": "Trenutno odabrani jezik",

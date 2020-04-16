@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "கருவிகளுக்கான உலகமயமாக்கல்",
 	"current-settings": "தற்போதைய அமைப்புகள்",
 	"current-language": "தேர்வு செய்யப்பட்டுள்ள மொழி",

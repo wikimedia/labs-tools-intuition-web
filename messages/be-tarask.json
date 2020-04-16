@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Інтэрналіцыяналізацыя для інструмэнтаў",
 	"current-settings": "Цяперашнія налады",
 	"current-language": "Выбраная мова",

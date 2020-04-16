@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"fullname": "Toolserver-ӑн усӑҫ интерфейсӗ валли интернационализацийӗ",
 	"current-settings": "Хальхи ӗнерлевсем",
 	"current-language": "Хальхи чӗлхе ӗнерленӗвӗсем",

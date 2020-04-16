@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"title": "Intuition",
 	"fullname": "ツールの国際化",
 	"current-settings": "現在の設定",

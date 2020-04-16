@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"current-settings": "Pangaturan saiki",
 	"current-language": "Basa pinilih saiki",
 	"settings-legend": "Pangaturan",
