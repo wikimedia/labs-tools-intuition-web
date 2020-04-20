@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"fullname": "Prevođenje alata",
+	"current-settings": "Trenutne postavke",
+	"current-language": "Izabrani jezik",
+	"settings-legend": "Postavke",
+	"choose-language": "Izaberite jezik",
+	"clear-cookies": "obriši kolačiće",
+	"renew-cookies": "obnovi kolačiće",
+	"cookie-expiration": "Isticanje kolačića",
+	"clearcookies-success": "Uspješno očišćeni kolačići.",
+	"renewcookies-success": "Kolačići su obnovljeni! Sada ste na raspolaganju za sljedećih $1.",
+	"tab-overview": "Pregled",
+	"tab-settings": "Postavke",
+	"tab-about": "O alatu",
+	"tab-demo": "Demo",
+	"usage": "Alati koje je preveo \"Intuicija\"."
+}
