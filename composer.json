@@ -11,7 +11,11 @@
 		"jakub-onderka/php-parallel-lint": "1.0.0",
 		"mediawiki/mediawiki-codesniffer": "27.0.0"
 	},
+	"config": {
+		"process-timeout": 0
+	},
 	"scripts": {
+		"serve": "php -S localhost:4000 -t public_html/",
 		"test": [
 			"parallel-lint . --exclude libs --exclude vendor --exclude node_modules",
 			"phpcs -p -s",
