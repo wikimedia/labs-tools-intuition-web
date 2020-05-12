@@ -36,33 +36,46 @@ function i18nApiResp( array $data ) {
 	global $kgReq;
 
 	$callback = $kgReq->getVal( 'callback' );
+	$jsonData = json_encode( $data );
 
 	// Allow CORS (to avoid having to use JSON-P with cache busting callback)
 	$kgReq->setHeader( 'Access-Control-Allow-Origin', '*' );
 	// Whitelist of headers for cross-origin requests (T231356)
 	$kgReq->setHeader( 'Access-Control-Allow-Headers', 'X-Wikimedia-Debug' );
 
-	// We don't yet support retrieval of when the localisation was last updated,
-	// so default to unconditionally caching for 5 minutes.
+	// - Let browser freely use it for 5 minutes without checking the server.
+	// - Let browser freely use a stale copy for 1 hour, if it can update in the background
+	//   with a cheap 304/ETag check.
+	// - If more than an hour old, or if older than 5min in browser without background update
+	//   support, then do a 304/ETag check during the web request.
+	//
+	// See also:
+	// - <https://web.dev/stale-while-revalidate/>
+	// - <https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control>
 	$maxAge = 5 * 60;
-	$kgReq->setHeader( 'Last-Modified', gmdate( 'D, d M Y H:i:s', time() ) . ' GMT' );
-	$kgReq->setHeader( 'Cache-Control', 'public, max-age=' . intval( $maxAge ) );
-	$kgReq->setHeader( 'Expires', gmdate( 'D, d M Y H:i:s', time() + $maxAge ) . ' GMT' );
+	$bgMaxAge = 60 * 60;
+	$kgReq->setHeader( 'Cache-Control', "public, max-age=$maxAge, stale-while-revalidate=$bgMaxAge" );
 
-	if ( $kgReq->tryLastModified( time() - $maxAge ) ) {
+	// Quotes are part of the E-Tag!
+	// See also: <https://en.wikipedia.org/wiki/HTTP_ETag>
+	$etag = '"' . substr( md5( $jsonData ), 0, 10 ) . '"';
+	if ( $kgReq->getHeader( 'If-None-Match' ) === $etag ) {
+		http_response_code( 304 );
 		exit;
 	}
+
+	$kgReq->setHeader( 'ETag', $etag );
 
 	// Serve as JSON or JSON-P
 	if ( $callback === null ) {
 		$kgReq->setHeader( 'Content-Type', 'application/json; charset=utf-8' );
-		echo json_encode( $data );
+		echo $jsonData;
 	} else {
 		$kgReq->setHeader( 'Content-Type', 'text/javascript; charset=utf-8' );
 
 		// Sanatize callback
 		$callback = kfSanatizeJsCallback( $callback );
-		echo $callback . '(' . json_encode( $data ) . ');';
+		echo $callback . '(' . $jsonData . ');';
 	}
 
 	exit;
