@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"Nike"
+			"Nike",
+			"Nintendofan885"
 		]
 	},
 	"title": "{{Optional}}\nIntuition (INTUI-tion) stands for \"Internationalization for Toolserver's User Interface\".",
@@ -18,7 +19,7 @@
 	"renewcookies-success": "This message is shown after the cookies are renewed. Parameters:\n* $1 - the period of time until the cookies will expire. e.g. \"30 days\"",
 	"tab-overview": "Dashboard tab for \"Overview\" which shows the current settings.\n{{Identical|Overview}}",
 	"tab-settings": "Dashboard tab for \"Settings\" which allows the user to edit the settings.\n{{Identical|Settings}}",
-	"tab-about": "Dashboard tab for \"About\" which opens a window with a demonstration page. See [//tools.wmflabs.org/intuition/ Intuition Dashboard] for a live example.\n\nIf 'About' doesn't work in your language, possible equivalents may be 'Details', 'About us', 'About this', 'Information' or 'Data'.\n\n{{Identical|About}}",
+	"tab-about": "Dashboard tab for \"About\" which opens a window with a demonstration page. See [//intuition.toolforge.org/ Intuition Dashboard] for a live example.\n\nIf 'About' doesn't work in your language, possible equivalents may be 'Details', 'About us', 'About this', 'Information' or 'Data'.\n\n{{Identical|About}}",
 	"tab-demo": "Dashboard tab for \"Demo\" which opens a window with a demonstration page.",
 	"usage": "Heading on the About-page of the Toolserver Intuition dashboard. A list of tools and textdomains is listed below."
 }
