@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Kly",
+			"LNDDYL",
 			"Liuxinyu970226"
 		]
 	},
 	"title": "Intuition",
 	"fullname": "工具國際化",
-	"current-settings": "當前的設定",
+	"current-settings": "目前的設定",
 	"current-language": "所選的語言",
 	"settings-legend": "設定",
 	"choose-language": "選擇語言",

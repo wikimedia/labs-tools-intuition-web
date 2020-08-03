@@ -1,9 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"LNDDYL"
+		]
 	},
 	"fullname": "Toolserver用戶界面國際化",
-	"current-settings": "目前設置",
+	"current-settings": "目前設定",
 	"current-language": "目前所選語言",
 	"settings-legend": "設定",
 	"choose-language": "選擇語言",
