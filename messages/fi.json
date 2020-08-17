@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nike"
+			"Nike",
+			"Pyscowicz"
 		]
 	},
 	"fullname": "Työkalujen kansainvälistäminen",
 	"current-settings": "Nykyiset asetukset",
-	"current-language": "Tällä hetkellä valittu kieli",
+	"current-language": "Valittu kieli",
 	"settings-legend": "Asetukset",
 	"choose-language": "Valitse kieli",
 	"clear-cookies": "poista evästeet",
