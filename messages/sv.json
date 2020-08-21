@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Sabelöga",
 			"WikiPhoenix"
 		]
 	},
@@ -19,5 +20,5 @@
 	"tab-settings": "Inställningar",
 	"tab-about": "Om",
 	"tab-demo": "Demo",
-	"usage": "Verktyg översatt av Intuition."
+	"usage": "Verktyg översatta av Intuition."
 }
