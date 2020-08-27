@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Krinkle/intuition-web.svg?branch=master)](https://travis-ci.org/Krinkle/intuition-web)
+[![Build Status](https://travis-ci.com/Krinkle/intuition-web.svg?branch=master)](https://travis-ci.com/Krinkle/intuition-web)
 
 # intuition-web
 
