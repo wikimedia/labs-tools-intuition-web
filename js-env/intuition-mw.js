@@ -1,17 +1,20 @@
-/* global mw */
-(function ($) {
-  var intuition, userlang, queueTimeout, queueDeferred,
-    apiPath = 'api.php',
-    queueList = [],
-    requested = {},
-    hasOwn = requested.hasOwnProperty,
-    push = queueList.push,
-    slice = queueList.slice,
-    mwMsgPrefix = 'intuition-';
+/* global mw, $ */
+(function () {
+  var intuition;
+  var userlang;
+  var queueTimeout;
+  var queueDeferred;
+  var apiPath = 'api.php';
+  var queueList = [];
+  var requested = {};
+  var hasOwn = requested.hasOwnProperty;
+  var push = queueList.push;
+  var slice = queueList.slice;
+  var mwMsgPrefix = 'intuition-';
 
   function handleQueue () {
-    var list = queueList.splice(0, queueList.length),
-      deferred = queueDeferred;
+    var list = queueList.splice(0, queueList.length);
+    var deferred = queueDeferred;
 
     queueDeferred = queueTimeout = undefined;
 
@@ -38,8 +41,8 @@
      * @return {jQuery.Promise}
      */
     load: function (domains, lang) {
-      var i,
-        list = [];
+      var i;
+      var list = [];
 
       domains = typeof domains === 'string' ? [domains] : domains;
 
@@ -106,4 +109,4 @@
 
   // Expose
   mw.libs.intuition = intuition;
-}(jQuery));
+}());

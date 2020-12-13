@@ -1,18 +1,19 @@
 {
   "private": true,
   "scripts": {
-    "test": "grunt"
+    "lint": "semistandard",
+    "test": "semistandard && grunt qunit"
   },
   "devDependencies": {
-    "eslint": "6.5.1",
-    "eslint-config-semistandard": "15.0.0",
-    "eslint-config-standard": "13.0.1",
-    "eslint-plugin-import": "2.18.2",
-    "eslint-plugin-node": "10.0.0",
-    "eslint-plugin-promise": "4.2.1",
-    "eslint-plugin-standard": "4.0.1",
     "grunt": "1.0.4",
     "grunt-contrib-qunit": "3.1.0",
-    "grunt-eslint": "22.0.0"
+    "qunit": "2.13.0",
+    "semistandard": "^15.0.0"
+  },
+  "semistandard": {
+    "ignore": [
+      "/libs",
+      "/public_html/base"
+    ]
   }
 }

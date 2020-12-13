@@ -1,4 +1,6 @@
-jQuery(function ($) {
+/* eslint-env browser */
+/* global $ */
+$(function () {
   var $tab;
 
   $('.nav-tabs').on('click', '[data-toggle="tab"]', function (e) {

@@ -1,15 +1,19 @@
-(function ($) {
-  var intuition, userlang, queueTimeout, queueDeferred,
-    apiPath = 'api.php',
-    queueList = [],
-    requested = {},
-    hasOwn = requested.hasOwnProperty,
-    push = queueList.push,
-    messages = {};
+/* global $ */
+(function () {
+  var intuition;
+  var userlang;
+  var queueTimeout;
+  var queueDeferred;
+  var apiPath = 'api.php';
+  var queueList = [];
+  var requested = {};
+  var hasOwn = requested.hasOwnProperty;
+  var push = queueList.push;
+  var messages = {};
 
   function handleQueue () {
-    var list = queueList.splice(0, queueList.length),
-      deferred = queueDeferred;
+    var list = queueList.splice(0, queueList.length);
+    var deferred = queueDeferred;
 
     queueDeferred = queueTimeout = undefined;
 
@@ -36,8 +40,8 @@
      * @return {jQuery.Promise}
      */
     load: function (domains, lang) {
-      var i,
-        list = [];
+      var i;
+      var list = [];
 
       domains = typeof domains === 'string' ? [domains] : domains;
 
@@ -85,4 +89,4 @@
 
   // Expose
   window.intuition = intuition;
-}(jQuery));
+}());
