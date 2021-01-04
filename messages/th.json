@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Aefgh39622"
+		]
+	},
+	"fullname": "สากลวิวัตน์สำหรับเครื่องมือ",
+	"current-settings": "การตั้งค่าปัจจุบัน",
+	"current-language": "ภาษาที่เลือก",
+	"settings-legend": "การตั้งค่า",
+	"choose-language": "เลือกภาษา",
+	"clear-cookies": "ล้างคุกกี้",
+	"renew-cookies": "ต่ออายุคุกกี้",
+	"cookie-expiration": "การหมดอายุของคุกกี้",
+	"clearcookies-success": "คุกกี้ได้ถูกล้างแล้ว",
+	"renewcookies-success": "ต่ออายุคุกกี้แล้ว! คุกกี้ของคุณจะใช้ได้อีก $1",
+	"tab-overview": "ภาพรวม",
+	"tab-settings": "การตั้งค่า",
+	"tab-about": "เกี่ยวกับ",
+	"tab-demo": "สาธิต",
+	"usage": "เครื่องมือที่แปลโดย Intuition"
+}
