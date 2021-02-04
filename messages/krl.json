@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"settings-legend": "Ašetukšet",
 	"choose-language": "Valiče kieli",
 	"tab-settings": "Ašetukšet"

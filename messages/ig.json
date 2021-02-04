@@ -1,5 +1,7 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"settings-legend": "Otu ihe dị",
 	"tab-about": "Màkà",
 	"tab-demo": "Nñomi"
