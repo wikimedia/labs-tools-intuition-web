@@ -290,18 +290,9 @@ $tabContent .= Html::rawElement( 'div', array(
 // About tab
 
 $about = '<div class="tab-pane" id="tab-about">';
-$about .= '<a href="https://translatewiki.net/wiki/Translating:Intuition">'
-	.	Html::element( 'img', array(
-		'src' => 'https://translatewiki.net/w/i.php?title=Special:TranslationStats&graphit=1&'
-			. 'count=edits&scale=months&days=250&width=520&height=400&group=tsint-0-all',
-		'width' => 520,
-		'height' => 400,
-		'alt' => '',
-		'class' => 'pull-right'
-		) )
-	.	'</a>';
-$about .= ''
-	. '<div class="lead">' . $I18N->msg( 'usage' ) . '</div><ul>';
+$about .= '<div class="lead">'
+	. '<p>' . htmlspecialchars( $I18N->msg( 'usage' ) ) . '</p>'
+	. '</div><ul>';
 $tools = json_decode( file_get_contents( __DIR__ . '/tools.json' ), true );
 foreach ( $tools as $domain => $info ) {
 	if ( isset( $info['title-msg'] ) ) {
@@ -316,8 +307,9 @@ foreach ( $tools as $domain => $info ) {
 			. '</a></li>';
 	}
 }
-$about .= '</ul><a href="https://github.com/Krinkle/intuition/wiki/Documentation">'
-	. 'Technical documentation</a></div>';
+$about .= '</ul><p><a href="https://translatewiki.net/wiki/Translating:Intuition">'
+	. htmlspecialchars( $I18N->msg( 'help-translate-tool', 'tsintuition' ) )
+	. '</a></p>';
 
 $toolSettings['tabs']['#tab-about'] = $I18N->msg( 'tab-about' );
 $tabContent .= $about;

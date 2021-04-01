@@ -88,8 +88,7 @@
 	"wikiviewstats": {
 		"url": "https://tools.wmflabs.org/wikiviewstats/"
 	},
-	"xtools": {
-		"title-msg": [ "xtools", "title_xtools" ],
-		"url": "https://tools.wmflabs.org/xtools/"
+	"XTools": {
+		"url": "https://xtools.wmflabs.org/"
 	}
 }
