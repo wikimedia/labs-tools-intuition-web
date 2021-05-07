@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Умар"
+		]
 	},
 	"fullname": "Интеркъаьмнийн гӀирс бан",
 	"current-settings": "Карара гӀирс нисбарш",
@@ -8,7 +10,7 @@
 	"settings-legend": "Параметраш",
 	"choose-language": "Харжа мотт",
 	"clear-cookies": "ДӀаяккха Cookies",
-	"renew-cookies": "Карлаяккха Cookies",
+	"renew-cookies": "Карлайаккха Cookies",
 	"cookie-expiration": "Файла cookie леларан хан",
 	"clearcookies-success": "Cookies файлаш кхиамца дӀацӀанйина.",
 	"renewcookies-success": "Cookie карлаяьхина! ХӀоттина хан $1",
