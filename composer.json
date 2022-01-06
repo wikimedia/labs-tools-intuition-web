@@ -5,7 +5,7 @@
 	"require": {
 		"php": ">=7.2",
 		"krinkle/toollabs-base": "^1.0.2",
-		"krinkle/intuition": "^2.0.0"
+		"krinkle/intuition": "^2.3.1"
 	},
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "1.0.0",
@@ -18,8 +18,7 @@
 		"serve": "php -S localhost:4000 -t public_html/",
 		"test": [
 			"parallel-lint . --exclude libs --exclude vendor --exclude node_modules",
-			"phpcs -p -s",
-			"npm ci && npm test"
+			"phpcs -p -s"
 		]
 	}
 }
