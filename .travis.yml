@@ -1,18 +1,12 @@
 language: php
 php:
-  # Deployed on Toolforge with backend=webservice2:kubernetes/php7.2
-  - "7.2"
+  # Deployed on Toolforge with backend kubernetes/php7.3
   - "7.3"
+  - "7.4"
 install:
   - composer install
-  # Upgrade from default Node.js version in Travis' PHP image to 10.x
-  - curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash
-  - source ~/.nvm/nvm.sh; nvm install 10
+  # https://docs.travis-ci.com/user/reference/xenial/#javascript-and-nodejs-support
+  - nvm install 12
 script:
   - composer test
-notifications:
-  irc:
-    channels:
-      - "chat.freenode.net#mediawiki-i18n"
-    template:
-      - "%{repository}#%{build_number} (%{branch} - %{commit}: %{author}) %{message} - %{build_url}"
+  - npm ci && npm test
