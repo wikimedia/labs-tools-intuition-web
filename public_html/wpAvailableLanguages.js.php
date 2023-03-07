@@ -39,7 +39,8 @@ $result = file_get_contents( 'http://commons.wikimedia.org/w/api.php?' . http_bu
 
 // Convert to more compact format
 $result = json_decode( $result, /* $assoc = */ true );
-$result = $result['query']['languages'];// [0] => array('code' => 'af', '*' => 'Afrikaans')
+// [ 0 => ['code' => 'af', '*' => 'Afrikaans'] ]
+$result = $result['query']['languages'] ?? array();
 $json_return = array();
 foreach ( $result as $lang ) {
 	$json_return[ $lang['code'] ] = $lang['*'];

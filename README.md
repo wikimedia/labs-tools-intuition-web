@@ -1,15 +1,15 @@
-[![Build Status](https://travis-ci.com/Krinkle/intuition-web.svg?branch=main)](https://travis-ci.com/Krinkle/intuition-web) [![Tested with QUnit](https://img.shields.io/badge/tested_with-qunit-9c3493.svg)](https://qunitjs.com/)
+[![Tested with QUnit](https://img.shields.io/badge/tested_with-qunit-9c3493.svg)](https://qunitjs.com/)
 
 # intuition-web
 
-Web interface for [Intuition](https://github.com/Krinkle/intuition).
+Web interface for [Intuition](https://gerrit.wikimedia.org/g/labs/tools/intuition).
 
 ## Install
 
-PHP 7.2 or higher is required, and [Composer](https://getcomposer.org).
+PHP 7.4 or higher is required, and [Composer](https://getcomposer.org).
 
 <pre lang="sh">
-git clone https://github.com/Krinkle/intuition-web.git && cd intuition-web
+git clone https://gerrit.wikimedia.org/r/labs/tools/intuition-web && cd intuition-web
 
 composer install --no-dev
 </pre>

@@ -16,13 +16,13 @@ use Krinkle\Intuition\Intuition;
 require_once __DIR__ . '/../vendor/autoload.php';
 
 // Don't output HTML-formatted errors
-ini_set( 'display_errors', 0 );
+ini_set( 'display_errors', '0' );
 
 $I18N = new Intuition( 'web' );
 
 if ( file_exists( __DIR__ . '/../config.php' ) ) {
 	require_once __DIR__ . '/../config.php';
-};
+}
 
 // Cache for 30 minutes (in seconds)
 $maxAge = 30 * 60;

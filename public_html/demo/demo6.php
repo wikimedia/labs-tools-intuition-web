@@ -56,7 +56,7 @@ var_dump(
 );
 
 // GetAcceptableLanguages
-$acceptLang = isset( $_SERVER['HTTP_ACCEPT_LANGUAGE'] ) ? $_SERVER['HTTP_ACCEPT_LANGUAGE'] : '';
+$acceptLang = $_SERVER['HTTP_ACCEPT_LANGUAGE'] ?? '';
 echo "<br/>getAcceptableLanguages: (default: \$_SERVER['HTTP_ACCEPT_LANGUAGE']: " .
 	htmlspecialchars( $acceptLang ) .
 	"):<br/>";

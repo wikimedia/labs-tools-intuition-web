@@ -1,6 +1,6 @@
 <?php
 error_reporting( E_ALL );
-ini_set( 'display_errors', 1 );
+ini_set( 'display_errors', '1' );
 date_default_timezone_set( 'UTC' );
 
 // Load Intuition from the main directory
@@ -18,7 +18,7 @@ $demoRegistry = array(
 );
 
 $thisFile = basename( $_SERVER['SCRIPT_NAME'], '.php' );
-$thisDescr = isset( $demoRegistry[$thisFile] ) ? htmlspecialchars( $demoRegistry[$thisFile] ) : '';
+$thisDescr = htmlspecialchars( $demoRegistry[$thisFile] ?? '' );
 
 // HTML fragments
 $startHTML = <<<HTML

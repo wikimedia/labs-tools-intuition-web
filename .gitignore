@@ -2,5 +2,6 @@
 /node_modules
 /config.php
 /vendor
-composer.lock
+/composer.lock
+/package-lock.json
 npm-debug.log

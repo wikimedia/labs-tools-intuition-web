@@ -10,6 +10,8 @@
 
 use Krinkle\Intuition\Intuition;
 use Krinkle\Intuition\Util as IntuitionUtil;
+use Krinkle\Toolbase\BaseTool;
+use Krinkle\Toolbase\Html;
 
 /**
  * Configuration
@@ -27,7 +29,7 @@ $I18N->registerDomain( 'web', __DIR__ . '/../messages' );
 if ( file_exists( __DIR__ . '/../config.php' ) ) {
 	// Optional overrides for $I18N
 	require_once __DIR__ . '/../config.php';
-};
+}
 
 // Initialize BaseTool
 $Tool = BaseTool::newFromArray( array(
@@ -40,11 +42,14 @@ $Tool = BaseTool::newFromArray( array(
 	'scripts' => array(
 		'main.js',
 	),
+	'sourceInfo' => array(
+		'issueTrackerUrl' => 'https://phabricator.wikimedia.org/tag/intuition/',
+	),
 	'licenses' => array(
 		'MIT'
 	),
 ) );
-$Tool->setSourceInfoGithub( 'Krinkle', 'intuition-web', dirname( __DIR__ ) );
+$Tool->setSourceInfoGerrit( 'labs/tools/intuition-web', dirname( __DIR__ ) );
 
 /**
  * Tool settings
@@ -203,38 +208,38 @@ if ( $I18N->hasCookies() ) {
 	$toolSettings['tabs']['#tab-currentsettings'] = $I18N->msg( 'tab-overview' );
 	$tabContent .=
 		'<div class="tab-pane active" id="tab-currentsettings">'
-	.	'<form role="form" class="form-horizontal"><fieldset>'
-	.	Html::element( 'legend', array(), $I18N->msg( 'current-settings' ) )
-	.	'<div class="form-group">'
-	.	Html::element( 'label', array(
+	. '<form role="form" class="form-horizontal"><fieldset>'
+	. Html::element( 'legend', array(), $I18N->msg( 'current-settings' ) )
+	. '<div class="form-group">'
+	. Html::element( 'label', array(
 			'class' => 'col-sm-4 control-label'
 		), $I18N->msg( 'current-language' ) . _g( 'colon-separator' ) . ' ' )
-	.	'<div class="col-sm-8">'
-	.	Html::element( 'input', array(
+	. '<div class="col-sm-8">'
+	. Html::element( 'input', array(
 		'value' => $I18N->getLangName(),
 		'readonly' => true,
 		'class' => 'form-control'
 	) )
-	.	'<p class="help-block">'
-	.	Html::element( 'a', array(
+	. '<p class="help-block">'
+	. Html::element( 'a', array(
 			'href' => $Tool->generatePermalink( array( 'action' => 'clearcookies' ) )
 		), $I18N->msg( 'clear-cookies' ) )
-	.	'</p>'
-	.	'</div>'
-	.	Html::element( 'label', array(
+	. '</p>'
+	. '</div>'
+	. Html::element( 'label', array(
 			'class' => 'col-sm-4 control-label'
 	), $I18N->msg( 'cookie-expiration' ) . _g( 'colon-separator' ) )
-	.	"<div class=\"col-sm-8 has-$cookieHealthClass has-feedback\">"
-	.	Html::element( 'input', array(
+	. "<div class=\"col-sm-8 has-$cookieHealthClass has-feedback\">"
+	. Html::element( 'input', array(
 			'value' => $time,
 			'class' => "form-control",
 			'readonly' => true
 		) )
-	.	"<span class=\"glyphicon glyphicon-$cookieHealthIcon form-control-feedback\"></span>"
-	.	$after
-	.	'</div>'
-	.	'</fieldset></form>'
-	.	'</div>';
+	. "<span class=\"glyphicon glyphicon-$cookieHealthIcon form-control-feedback\"></span>"
+	. $after
+	. '</div>'
+	. '</fieldset></form>'
+	. '</div>';
 
 	$settingsIsFirst = false;
 } else {
@@ -275,9 +280,9 @@ $tabContent .= Html::rawElement( 'div', array(
 
 	<input type="hidden" name="action" value="prefset">
 	<input type="hidden" name="returnto" value="' .
-		htmlspecialchars( $kgReq->getVal( 'returnto' ) ) . '">
+		htmlspecialchars( $kgReq->getVal( 'returnto' ) ?? '' ) . '">
 	<input type="hidden" name="returntoquery" value="' .
-		htmlspecialchars( $kgReq->getVal( 'returntoquery' ) ) . '">
+		htmlspecialchars( $kgReq->getVal( 'returntoquery' ) ?? '' ) . '">
 	<div class="form-group">
 		<div class="col-sm-offset-4 col-sm-8">
 			<input type="submit" class="btn btn-default btn-primary" value="'
@@ -297,6 +302,7 @@ $tools = json_decode( file_get_contents( __DIR__ . '/tools.json' ), true );
 foreach ( $tools as $domain => $info ) {
 	if ( isset( $info['title-msg'] ) ) {
 		$title = $I18N->msg( $info['title-msg'][1], $info['title-msg'][0] );
+		'@phan-var string $title';
 	} else {
 		$title = $domain;
 	}
@@ -328,7 +334,7 @@ foreach ( $toolSettings['tabs'] as $tabID => $tabName ) {
 		)
 	), Html::element( 'a', array(
 		'href' => $tabID,
-		'data-toggle' => $tabID[0] === '#' ? 'tab' : null,
+		'data-toggle' => $tabID[0] === '#' ? 'tab' : '',
 	), $tabName ) );
 }
 $tabBar .= '</ul>';
