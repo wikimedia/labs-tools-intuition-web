@@ -1,6 +1,9 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"बडा काजी",
+			"सरोज कुमार ढकाल"
+		]
 	},
 	"settings-legend": "सेटिङ्हरू",
 	"choose-language": "भाषा चुन्ने",
@@ -9,7 +12,7 @@
 	"cookie-expiration": "कुकी समाप्ती",
 	"clearcookies-success": "कुकीहरू हटाइयो ।",
 	"tab-overview": "अधिदृश्य",
-	"tab-settings": "सेटिङ्हरू",
+	"tab-settings": "मेरो अभिरुचिहरू",
 	"tab-about": "बारेमा",
 	"tab-demo": "प्रस्तुती"
 }

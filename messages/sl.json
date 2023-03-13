@@ -1,16 +1,18 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Eleassar"
+		]
 	},
 	"fullname": "Internacionalizacija orodij",
 	"current-settings": "Trenutne nastavitve",
-	"current-language": "Izbran jezik",
+	"current-language": "Izbrani jezik",
 	"settings-legend": "Nastavitve",
 	"choose-language": "Izberite jezik",
 	"clear-cookies": "počisti piškotke",
-	"renew-cookies": "obnovi piškotke",
-	"cookie-expiration": "Potek piškotkov",
-	"clearcookies-success": "Piškotki so uspešno počiščeni.",
+	"renew-cookies": "prenovi piškotke",
+	"cookie-expiration": "Pretek piškotkov",
+	"clearcookies-success": "Piškotki so počiščeni.",
 	"renewcookies-success": "Piškotki so obnovljeni! Pripravljeni ste za naslednjih $1.",
 	"tab-overview": "Pregled",
 	"tab-settings": "Nastavitve",

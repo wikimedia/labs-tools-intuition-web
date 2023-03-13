@@ -1,11 +1,13 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Plaga med"
+		]
 	},
 	"fullname": "Інтэрнацыяналізацыя для інструментаў",
-	"current-settings": "Цяперашнія наладкі",
+	"current-settings": "Бягучыя налады",
 	"current-language": "Выбраная мова",
-	"settings-legend": "Наладкі",
+	"settings-legend": "Налады",
 	"choose-language": "Абярыце мову",
 	"clear-cookies": "Ачысціць квіткі (кукі)",
 	"renew-cookies": "абнавіць квіткі (кукі)",
@@ -13,7 +15,7 @@
 	"clearcookies-success": "Квіткі (кукі) паспяхова выдаленыя.",
 	"renewcookies-success": "Квіткі (кукі) абноўленыя. Усё гатова на тэрмін у $1",
 	"tab-overview": "Агляд",
-	"tab-settings": "Наладкі",
+	"tab-settings": "Налады",
 	"tab-about": "Што гэта?",
 	"tab-demo": "Дэманстрацыя",
 	"usage": "Прылады перакладзеныя з дапамогай Intuition."

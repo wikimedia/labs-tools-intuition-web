@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Volvox"
+		]
 	},
 	"fullname": "Iwwersetzunge fir Tools",
 	"current-settings": "Aktuell Astellungen",
@@ -16,5 +18,5 @@
 	"tab-settings": "Astellungen",
 	"tab-about": "Iwwer",
 	"tab-demo": "Demo",
-	"usage": "D'Tools déi vun 'Intuition' iwwersat goufen."
+	"usage": "D'Tools, déi vun 'Intuition' iwwersat goufen."
 }

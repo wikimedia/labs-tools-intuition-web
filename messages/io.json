@@ -5,7 +5,18 @@
 		]
 	},
 	"fullname": "Internacioniigo por instrumenti",
+	"current-settings": "Nuna ajusti",
+	"current-language": "Selektita linguo",
 	"settings-legend": "Ajusti",
+	"choose-language": "Selektez idiomo",
+	"clear-cookies": "efacar ''cookies''",
+	"renew-cookies": "rinovigar ''cookies''",
+	"cookie-expiration": "Expiro di ''cookie''",
+	"clearcookies-success": "Omna ''cookies'' eliminesis.",
+	"renewcookies-success": "''Cookies'' rinovigita! Vu esas komplete ajustita por la sequanta $1.",
+	"tab-overview": "Rezumo",
 	"tab-settings": "Ajusti",
+	"tab-about": "Pri",
+	"tab-demo": "Demonstro",
 	"usage": "Utensili tradukita per tablero 'Intuition'"
 }
