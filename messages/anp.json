@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Proabscorp!"
+		]
+	},
+	"fullname": "उपकरण लेली अंतर्राष्ट्रीयकरण",
+	"current-settings": "वर्तमान सेटिंग्स",
+	"current-language": "भाषा चुनौ",
+	"settings-legend": "सेटिंग्स",
+	"choose-language": "एगो भाषा चुनौ",
+	"clear-cookies": "कुकीज़ साफ़ करौ",
+	"renew-cookies": "कुकीज़ क नवीनीकृत करौ",
+	"cookie-expiration": "कुकी क समाप्ति",
+	"clearcookies-success": "कुकीज़ साफ़ करी देलौ गेलै।",
+	"renewcookies-success": "कुकीज़ नवीनीकृत होय गेलौं! अबअ इ अगला $1 तक चलथौं।",
+	"tab-overview": "सारांश",
+	"tab-settings": "सेटिंग्स",
+	"tab-about": "बारै मँ",
+	"tab-demo": "नमूना",
+	"usage": "उपकरण Intuition केरौ माध्यम सँ अनुवादित।"
+}
