@@ -2,9 +2,9 @@
 
 # intuition-web
 
-Web interface for [Intuition](https://gerrit.wikimedia.org/g/labs/tools/intuition).
+Web interface for [Intuition](https://gerrit.wikimedia.org/g/labs/tools/intuition), as deployed at <https://intuition.toolforge.org/>.
 
-## Install
+## Local development
 
 PHP 7.4 or higher is required, and [Composer](https://getcomposer.org).
 
