@@ -1,10 +1,12 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Cabal"
+		]
 	},
-	"settings-legend": "ਪਸੰਦਾੰ",
+	"settings-legend": "ਪਸੰਦਾਂ",
 	"choose-language": "ਭਾਸ਼ਾ ਚੁਣੋ",
 	"tab-overview": "ਸੰਖੇਪ",
-	"tab-settings": "ਪਸੰਦਾੰ",
+	"tab-settings": "ਪਸੰਦਾਂ",
 	"tab-about": "ਬਾਰੇ"
 }
