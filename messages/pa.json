@@ -4,9 +4,12 @@
 			"Cabal"
 		]
 	},
+	"fullname": "ਸੰਦਾਂ ਲਈ ਅੰਤਰਰਾਸ਼ਟਰੀਕਰਨ",
+	"current-language": "ਚੁਣੀ ਗਈ ਭਾਸ਼ਾ",
 	"settings-legend": "ਪਸੰਦਾਂ",
 	"choose-language": "ਭਾਸ਼ਾ ਚੁਣੋ",
 	"tab-overview": "ਸੰਖੇਪ",
 	"tab-settings": "ਪਸੰਦਾਂ",
-	"tab-about": "ਬਾਰੇ"
+	"tab-about": "ਬਾਰੇ",
+	"usage": "ਇੰਟਯੂਸ਼ਨ(Intuition) ਵੱਲੋਂ ਸੰਦ ਦਾ ਤਰਜਮਾ ਕੀਤਾ ਗਿਆ।"
 }
