@@ -1,11 +1,13 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"شاه زمان پټان"
+		]
 	},
 	"current-settings": "اوسنۍ امستنې",
 	"current-language": "د دم مهال ټاکلې ژبه",
 	"settings-legend": "امستنې",
-	"choose-language": "يوه ژبه وټاکۍ",
+	"choose-language": "يوه ژبه وټاکئ",
 	"clear-cookies": "کوکيز سپينول",
 	"renew-cookies": "کوکيز بيا نوي کول",
 	"tab-overview": "مخليدنه",
