@@ -4,12 +4,14 @@
 			"شاه زمان پټان"
 		]
 	},
+	"fullname": "توکو لپاره نړۍ‌والتوب",
 	"current-settings": "اوسنۍ اوڼنې",
 	"current-language": "د دم مهال ټاکلې ژبه",
 	"settings-legend": "اوڼنې",
 	"choose-language": "يوه ژبه وټاکئ",
 	"clear-cookies": "کوکيز سپينول",
 	"renew-cookies": "کوکيز بيا نوي کول",
+	"cookie-expiration": "خواړو پای‌ته‌رسېدل",
 	"tab-overview": "مخليدنه",
 	"tab-settings": "اوڼنې",
 	"tab-about": "په اړه",
