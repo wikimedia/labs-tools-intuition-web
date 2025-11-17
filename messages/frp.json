@@ -1,8 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"ChrisPtDe"
+		]
 	},
-	"fullname": "Entèrnacionalisacion de l’entèrface utilisator du Toolserver",
+	"fullname": "Entèrnacionalisacion des outils",
 	"current-settings": "Configuracion d’ora",
 	"current-language": "Lengoua ora chouèsia",
 	"settings-legend": "Configuracion",
