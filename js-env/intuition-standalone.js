@@ -1,3 +1,6 @@
+/**
+ * From https://intuition.toolforge.org/load.php?env=standalone
+ */
 /* global $ */
 (function () {
   var intuition;

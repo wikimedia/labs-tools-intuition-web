@@ -1,3 +1,6 @@
+/**
+ * From https://intuition.toolforge.org/load.php?env=mw
+ */
 /* global mw, $ */
 (function () {
   var intuition;
