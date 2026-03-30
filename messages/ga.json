@@ -1,6 +1,22 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Aindriu80"
+		]
 	},
-	"tab-about": "Maidir leis"
+	"fullname": "Idirnáisiúnú le haghaidh uirlisí",
+	"current-settings": "Socruithe reatha",
+	"current-language": "Teanga roghnaithe",
+	"settings-legend": "Socruithe",
+	"choose-language": "Roghnaigh teanga",
+	"clear-cookies": "fianáin shoiléire",
+	"renew-cookies": "fianáin a athnuachan",
+	"cookie-expiration": "Éaga fianán",
+	"clearcookies-success": "Tá na fianáin glanta.",
+	"renewcookies-success": "Fianáin athnuaite! Tá tú réidh don chéad $1 eile.",
+	"tab-overview": "Forbhreathnú",
+	"tab-settings": "Socruithe",
+	"tab-about": "Maidir leis",
+	"tab-demo": "Taispeántas",
+	"usage": "Uirlisí aistrithe ag Intuition."
 }
