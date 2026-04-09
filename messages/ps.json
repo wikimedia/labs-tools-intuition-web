@@ -4,6 +4,7 @@
 			"شاه زمان پټان"
 		]
 	},
+	"title": "ادراک",
 	"fullname": "توکو لپاره نړۍ‌والتوب",
 	"current-settings": "اوسنۍ اوڼنې",
 	"current-language": "د دم مهال ټاکلې ژبه",
@@ -13,8 +14,10 @@
 	"renew-cookies": "کوکيز بيا نوي کول",
 	"cookie-expiration": "خواړو پای‌ته‌رسېدل",
 	"clearcookies-success": "خواړه سپا شول.",
+	"renewcookies-success": "خواړه نوي‌شول! تاسو د راتلونکي $1 لپاره چمتو ياست.",
 	"tab-overview": "مخليدنه",
 	"tab-settings": "اوڼنې",
 	"tab-about": "په اړه",
-	"tab-demo": "آزمېښتي"
+	"tab-demo": "آزمېښتي",
+	"usage": "هغه توکي چې د ادراک له خوا ژباړل شوې دي."
 }
