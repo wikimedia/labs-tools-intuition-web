@@ -1,12 +1,19 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Əkrəm"
+		]
 	},
+	"fullname": "Alətlər üçün beynəlxalqlaşdırma",
+	"current-settings": "Cari nizamlamalar",
 	"current-language": "Seçdiyiniz dil",
 	"settings-legend": "Nizamlamalar",
 	"choose-language": "Dil seçin",
 	"clear-cookies": "kökələri təmizlə",
+	"renew-cookies": "kukiləri yeniləyin",
 	"cookie-expiration": "kökənin bitmə vaxtı",
+	"clearcookies-success": "Kukilər təmizləndi.",
+	"renewcookies-success": "Kukilər yeniləndi! Növbəti $1 üçün hər şey hazırdır.",
 	"tab-overview": "Xülasə",
 	"tab-settings": "Nizamlamalar",
 	"tab-about": "Haqqında",
