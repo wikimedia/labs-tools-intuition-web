@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Ucukor"
+		]
 	},
 	"fullname": "Інтэрналіцыяналізацыя для інструмэнтаў",
 	"current-settings": "Цяперашнія налады",
@@ -11,7 +13,7 @@
 	"renew-cookies": "аднавіць закладкі (cookies)",
 	"cookie-expiration": "Тэрмін дзеяньня закладак (cookies)",
 	"clearcookies-success": "Закладкі (cookies) ачышчаныя пасьпяхова.",
-	"renewcookies-success": "Закладкі (cookies) адноўленыя! Яны будуць дзейнічаць наступныя $1.",
+	"renewcookies-success": "Закладкі (cookies) адноўленыя! Яны будуць дзеяць наступныя $1.",
 	"tab-overview": "Агляд",
 	"tab-settings": "Налады",
 	"tab-about": "Пра",
