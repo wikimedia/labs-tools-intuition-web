@@ -1,12 +1,23 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Wizzard"
+		]
 	},
+	"title": "Intuition",
+	"fullname": "Internacionalizácia pre nástroje",
+	"current-settings": "Aktuálne nastavenia",
 	"current-language": "Zvolený jazyk",
 	"settings-legend": "Nastavenia",
 	"choose-language": "Zvoľte si jazyk",
 	"clear-cookies": "vymazať súbory \"cookie\"",
+	"renew-cookies": "obnoviť cookies",
+	"cookie-expiration": "Platnosť cookies",
+	"clearcookies-success": "Cookies boli vymazané.",
+	"renewcookies-success": "Cookies obnovené! Máte vystarané na ďalších $1.",
 	"tab-overview": "Prehľad",
 	"tab-settings": "Nastavenia",
-	"tab-demo": "Demo"
+	"tab-about": "O nástroji",
+	"tab-demo": "Demo",
+	"usage": "Nástroje preložené pomocou Intuition."
 }
