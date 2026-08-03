@@ -1,8 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Siebrand"
+		]
 	},
-	"fullname": "Vertalingen voor tools",
+	"fullname": "Vertalingen voor hulpmiddelen",
 	"current-settings": "Huidige instellingen",
 	"current-language": "Huidige taal",
 	"settings-legend": "Instellingen",
@@ -16,5 +18,5 @@
 	"tab-settings": "Instellingen",
 	"tab-about": "Over",
 	"tab-demo": "Demo",
-	"usage": "Tools die vertaald worden via Intuition."
+	"usage": "Hulpmiddelen die vertaald worden via Intuition."
 }
