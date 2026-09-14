@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"باران",
 			"شاه زمان پټان"
 		]
 	},
 	"title": "ادراک",
 	"fullname": "توکو لپاره نړۍ‌والتوب",
 	"current-settings": "اوسنۍ اوڼنې",
-	"current-language": "د دم مهال ټاکلې ژبه",
+	"current-language": "غوره‌شوې ژبه",
 	"settings-legend": "اوڼنې",
 	"choose-language": "يوه ژبه وټاکئ",
 	"clear-cookies": "کوکيز سپينول",
@@ -19,5 +20,5 @@
 	"tab-settings": "اوڼنې",
 	"tab-about": "په اړه",
 	"tab-demo": "آزمېښتي",
-	"usage": "هغه توکي چې د ادراک له خوا ژباړل شوې دي."
+	"usage": "هغه کارتوکي چې د ادراک له خوا ژباړل شوې دي."
 }
