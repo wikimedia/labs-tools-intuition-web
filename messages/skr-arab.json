@@ -1,16 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Saraiki"
+			"Saraiki",
+			"Tauqeerkhansurani"
 		]
 	},
+	"fullname": "ٹولز کیتے بین الاقوامی کرݨ",
 	"current-settings": "حالیہ ترتیباں",
 	"current-language": "چݨی ہوئی زبان",
 	"settings-legend": "ترتیباں",
 	"choose-language": "زبان چݨو",
 	"clear-cookies": "کوکیاں صاف کرو",
+	"renew-cookies": "کوکیاں نویاں کرو",
+	"cookie-expiration": "کوکی دی میعاد",
+	"clearcookies-success": "کوکیاں صاف کر ݙتیاں ڳیاں۔",
+	"renewcookies-success": "کوکیاں نویاں تھی ڳیاں! تساں $1 کیتے تیار ہو۔",
 	"tab-overview": "اُتلی نظر",
 	"tab-settings": "ترتیباں",
 	"tab-about": "تعارف",
-	"tab-demo": "ڈیمو"
+	"tab-demo": "ڈیمو",
+	"usage": "انٹویشن رائیں ترجمہ کیتے ڳئے ٹول۔"
 }
